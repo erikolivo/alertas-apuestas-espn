@@ -1,0 +1,35 @@
+name: Fase 1 - Seleccion de partidos
+
+# Local (UTC-5): reintenta cada 5 min entre las 04:00 y las 06:00.
+# seleccionar_partidos.py ya se autoprotege (ya_se_completo_hoy) --
+# correr de mas no rompe nada, solo no hace nada si ya se completo hoy.
+on:
+  schedule:
+    - cron: "*/5 9-10 * * *"   # 09:00-10:59 UTC = 04:00-05:59 local
+  workflow_dispatch: {}
+
+jobs:
+  seleccionar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Ejecutar seleccion de partidos
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python seleccionar_partidos.py
+
+      - name: Guardar cambios en data/
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A data/
+          git diff --staged --quiet || git commit -m "Fase 1: seleccion de partidos $(date -u +%Y-%m-%d)"
+          git push

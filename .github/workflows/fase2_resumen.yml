@@ -1,0 +1,34 @@
+name: Fase 2 - Resumen diario
+
+# Local (UTC-5): reintenta cada 15 min entre las 07:00 y las 08:30.
+on:
+  schedule:
+    - cron: "0,15,30,45 12-13 * * *"   # 12:00-13:59 UTC = 07:00-08:59 local
+  workflow_dispatch: {}
+
+jobs:
+  resumen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Enviar resumen del dia
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python resumen.py
+
+      - name: Guardar cambios en data/
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A data/
+          git diff --staged --quiet || git commit -m "Fase 2: resumen enviado $(date -u +%Y-%m-%d)"
+          git push
