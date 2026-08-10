@@ -41,6 +41,15 @@ DIFERENCIA_TECHO = 3
 MINUTO_INICIO_CIERRE = 75
 DOMINANCIA_CIERRE = 0.75
 
+# NUEVO (a pedido explicito): con muy pocos minutos jugados, la muestra
+# de tiros/corners es minuscula y el momentum puede leer "parejo" o
+# "favorito domina" con apenas 1-2 eventos -- no es suficiente para
+# alertar con confianza. Tarjeta roja, penal y el techo de diferencia
+# NO se retrasan (son hechos consumados, no lecturas estadisticas con
+# poca muestra) -- solo se retrasan las alertas basadas en momentum
+# (partido_abierto, posible_empate, cuidado_rival_presiona, etc.).
+MINUTO_MINIMO_ALERTA_MOMENTUM = 15
+
 
 def _cargar():
     if not ARCHIVO_PARTIDOS.exists():
@@ -113,6 +122,12 @@ def _evaluar_alertas(partido, snap_actual, snap_anterior, minuto):
     zona = momentum.zona_momentum(mom_favorito)
     minuto_int = momentum._minuto_a_entero(minuto) or 45
 
+    if minuto_int < MINUTO_MINIMO_ALERTA_MOMENTUM:
+        # Todavia no hay muestra suficiente para una lectura de momentum
+        # confiable -- se salta SOLO este tipo de alerta, tarjeta roja/
+        # penal/techo de diferencia ya se evaluaron arriba sin este filtro.
+        return []
+
     alertas = []
 
     if zona == "paridad" and (presion_fav + presion_riv) > 0:
@@ -148,17 +163,42 @@ def _evaluar_alertas(partido, snap_actual, snap_anterior, minuto):
     return alertas
 
 
-def _mensaje_partido(partido, minuto, snap_actual, texto):
-    stats_fav = snap_actual["stats_local"] if partido["favorito_es_local"] else snap_actual["stats_visitante"]
-    stats_riv = snap_actual["stats_visitante"] if partido["favorito_es_local"] else snap_actual["stats_local"]
+def _mensaje_partido(partido, minuto, snap_actual, texto, mom_favorito=None, prob_gol_fav=None, prob_gol_riv=None):
+    """
+    AMPLIADO a pedido explicito: antes solo mostraba tiros a puerta y
+    posesion -- insuficiente para que la persona juzgue por si misma si
+    de verdad hay ataque real o paridad. Ahora trae TODOS los numeros
+    crudos que ya usa el calculo de momentum (no solo la conclusion),
+    para que el criterio final sea del usuario, no solo del sistema.
+    """
+    fav_local = partido["favorito_es_local"]
+    stats_fav = snap_actual["stats_local"] if fav_local else snap_actual["stats_visitante"]
+    stats_riv = snap_actual["stats_visitante"] if fav_local else snap_actual["stats_local"]
+
+    def _n(stats, campo):
+        return stats.get(campo, "?")
+
     lineas = [
         texto,
         f"<b>{escapar_html(partido['partido'])}</b> -- min {minuto}",
         f"Marcador: {snap_actual['goles_local']}-{snap_actual['goles_visitante']}",
         f"Favorito: {escapar_html(partido['favorito'])} (cuota inicial {partido['cuota_inicial']})",
-        f"Tiros a puerta: {stats_fav.get('shotsOnTarget','?')} vs {stats_riv.get('shotsOnTarget','?')}",
-        f"Posesion: {stats_fav.get('possessionPct','?')}% vs {stats_riv.get('possessionPct','?')}%",
+        "",
+        f"<b>{escapar_html(partido['favorito'])} (favorito)</b> vs <b>{escapar_html(partido['no_favorito'])}</b>",
+        f"Tiros totales: {_n(stats_fav,'totalShots')} vs {_n(stats_riv,'totalShots')}",
+        f"Tiros a puerta: {_n(stats_fav,'shotsOnTarget')} vs {_n(stats_riv,'shotsOnTarget')}",
+        f"Tiros bloqueados: {_n(stats_fav,'blockedShots')} vs {_n(stats_riv,'blockedShots')}",
+        f"Corners: {_n(stats_fav,'wonCorners')} vs {_n(stats_riv,'wonCorners')}",
+        f"Faltas: {_n(stats_fav,'foulsCommitted')} vs {_n(stats_riv,'foulsCommitted')}",
+        f"Posesion: {_n(stats_fav,'possessionPct')}% vs {_n(stats_riv,'possessionPct')}%",
     ]
+
+    if mom_favorito is not None:
+        lineas.append("")
+        lineas.append(f"Momentum (presion reciente): {round(mom_favorito*100)}% favorito / {round((1-mom_favorito)*100)}% rival")
+    if prob_gol_fav is not None and prob_gol_riv is not None:
+        lineas.append(f"Prob. de gol en los proximos ~15 min: favorito {round(prob_gol_fav*100)}% / rival {round(prob_gol_riv*100)}%")
+
     return "\n".join(lineas)
 
 
@@ -195,8 +235,18 @@ def vigilar():
         hubo_cambios = True
 
         alertas = _evaluar_alertas(partido, snap_actual, snap_anterior, box["minuto"])
+        if alertas:
+            lado_favorito = "local" if partido["favorito_es_local"] else "visitante"
+            lado_rival = "visitante" if partido["favorito_es_local"] else "local"
+            presion_fav, _ = momentum.calcular_presion(snap_actual, snap_anterior, lado_favorito)
+            presion_riv, _ = momentum.calcular_presion(snap_actual, snap_anterior, lado_rival)
+            mom_favorito = momentum.momentum_relativo(presion_fav, presion_riv)
+            prob_gol_fav = momentum.probabilidad_gol_ventana(snap_actual, snap_anterior, lado_favorito, box["minuto"])
+            prob_gol_riv = momentum.probabilidad_gol_ventana(snap_actual, snap_anterior, lado_rival, box["minuto"])
+
         for tipo, texto in alertas:
-            mensaje = _mensaje_partido(partido, box["minuto"], snap_actual, texto)
+            mensaje = _mensaje_partido(partido, box["minuto"], snap_actual, texto,
+                                        mom_favorito=mom_favorito, prob_gol_fav=prob_gol_fav, prob_gol_riv=prob_gol_riv)
             if enviar_mensaje_telegram(mensaje):
                 _registrar_alerta(partido, tipo, texto, box["minuto"])
 
