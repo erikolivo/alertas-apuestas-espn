@@ -28,25 +28,25 @@
       "nombre": "Banfield",
       "pais": "Argentina",
       "liga": "Liga Profesional Argentina",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1337.69,
+      "rd": 290.32,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-11"
     },
     "espn:4": {
       "nombre": "Belgrano (Córdoba)",
       "pais": "Argentina",
       "liga": "Liga Profesional Argentina",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1662.31,
+      "rd": 290.32,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-11"
     },
     "espn:20": {
       "nombre": "Unión (Santa Fe)",
