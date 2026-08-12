@@ -82,5 +82,97 @@
   "2026": {
     "nombre": "São Paulo",
     "pais": "Brazil"
+  },
+  "20232": {
+    "nombre": "Inter Miami CF",
+    "pais": "USA"
+  },
+  "12011": {
+    "nombre": "Orlando City SC",
+    "pais": "USA"
+  },
+  "15720": {
+    "nombre": "Atlético de San Luis",
+    "pais": "Mexico"
+  },
+  "220": {
+    "nombre": "Monterrey",
+    "pais": "Mexico"
+  },
+  "18986": {
+    "nombre": "Nashville SC",
+    "pais": "USA"
+  },
+  "223": {
+    "nombre": "Toluca",
+    "pais": "Mexico"
+  },
+  "185": {
+    "nombre": "FC Dallas",
+    "pais": "USA"
+  },
+  "22529": {
+    "nombre": "San Diego FC",
+    "pais": "USA"
+  },
+  "231": {
+    "nombre": "Puebla",
+    "pais": "Mexico"
+  },
+  "18966": {
+    "nombre": "LAFC",
+    "pais": "USA"
+  },
+  "222": {
+    "nombre": "Querétaro",
+    "pais": "Mexico"
+  },
+  "9726": {
+    "nombre": "Seattle Sounders FC",
+    "pais": "USA"
+  },
+  "219": {
+    "nombre": "Guadalajara",
+    "pais": "Mexico"
+  },
+  "2029": {
+    "nombre": "Palmeiras",
+    "pais": "Brazil"
+  },
+  "2671": {
+    "nombre": "Cerro Porteño",
+    "pais": null
+  },
+  "7764": {
+    "nombre": "Platense",
+    "pais": "Argentina"
+  },
+  "8186": {
+    "nombre": "Coquimbo Unido",
+    "pais": "Chile"
+  },
+  "2022": {
+    "nombre": "Cruzeiro",
+    "pais": "Brazil"
+  },
+  "819": {
+    "nombre": "Flamengo",
+    "pais": "Brazil"
+  },
+  "6079": {
+    "nombre": "Red Bull Bragantino",
+    "pais": "Brazil"
+  },
+  "7632": {
+    "nombre": "Atlético-MG",
+    "pais": "Brazil"
+  },
+  "7767": {
+    "nombre": "Tigre",
+    "pais": "Argentina"
+  },
+  "19002": {
+    "nombre": "Montevideo City Torque",
+    "pais": "Uruguay"
   }
 }
