@@ -63,7 +63,7 @@ PAIS_A_CODIGO_CLUBELO = team_resolver.PAIS_A_CODIGO_CLUBELO
 # generica contra bugs (ej. un loop que reintente sin parar).
 TOPE_RESOLUCIONES_PAIS_FASE1 = 100
 
-UMBRAL_FAVORITO_CUOTA_REAL_ESPN = 0.60  # mismo umbral que el modelo propio, para comparar manzanas con manzanas
+UMBRAL_FAVORITO_CUOTA_REAL_ESPN = 0.65  # mismo umbral que el modelo propio (PROB_MINIMA_FAVORITO), para comparar manzanas con manzanas
 
 
 def fecha_local_hoy():
@@ -329,7 +329,7 @@ def seleccionar():
     )
     sin_verificar_seleccionados = sum(1 for p in seleccionados if not p["pais_verificado"])
     print(f"Guardado en {ARCHIVO_SALIDA}. {len(seleccionados)} partidos seleccionados "
-          f"(probabilidad inicial >= 60%), de los cuales {sin_verificar_seleccionados} "
+          f"(probabilidad inicial >= 65%), de los cuales {sin_verificar_seleccionados} "
           f"sin verificacion de pais.")
 
 

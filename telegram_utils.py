@@ -70,7 +70,7 @@ def _enviar_una_parte(texto):
         return False
 
 
-NOMBRE_PROYECTO = "Flow Elo"
+NOMBRE_PROYECTO = "Alertas ESPN"
 
 
 def enviar_mensaje_telegram(texto):

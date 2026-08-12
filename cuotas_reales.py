@@ -18,7 +18,7 @@ from mapeo_ligas_odds_api import sport_key_para
 import cuota_odds_api
 
 TOPE_LIGAS_POR_DIA = 20
-UMBRAL_FAVORITO_CUOTA_REAL = 0.60
+UMBRAL_FAVORITO_CUOTA_REAL = 0.65  # alineado con PROB_MINIMA_FAVORITO tras el cambio de umbral (agosto 2026)
 
 
 def _favorito_desde_evento(evento):

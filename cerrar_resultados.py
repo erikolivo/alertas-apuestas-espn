@@ -107,12 +107,10 @@ def _hubo_gol_en_ventana(historial_snapshots, minuto_alerta, lado, favorito_es_l
 LADO_ESPERADO_POR_TIPO = {
     "posible_empate": "favorito",
     "posible_victoria_favorito": "favorito",
-    "gana_favorito_1er_tiempo": "favorito",
+    "alerta_1er_tiempo": "favorito",
     "ampliacion_marcador": "favorito",
-    "posible_gol_no_favorito": "rival",
     "cuidado_rival_presiona": "rival",
     "gol_de_cierre": "favorito",
-    "partido_abierto": "cualquiera",
     "tarjeta_roja": None,
     "penal": "cualquiera",
     "partido_resuelto": None,
