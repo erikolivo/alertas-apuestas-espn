@@ -340,49 +340,49 @@
       "nombre": "FC Cincinnati",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1337.69,
+      "rd": 290.32,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-12"
     },
     "espn:216": {
       "nombre": "Atlas",
       "pais": "Mexico",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1662.31,
+      "rd": 290.32,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-12"
     },
     "espn:17362": {
       "nombre": "Minnesota United FC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1662.31,
+      "rd": 290.32,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-12"
     },
     "espn:226": {
       "nombre": "Atlante",
       "pais": "Italy",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1337.69,
+      "rd": 290.32,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-12"
     },
     "espn:4771": {
       "nombre": "Real Salt Lake",
@@ -533,24 +533,24 @@
       "pais": "Bolivia",
       "liga": "CONMEBOL Sudamericana",
       "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rd": 290.32,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-12"
     },
     "espn:2026": {
       "nombre": "São Paulo",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
       "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rd": 290.32,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-12"
     }
   }
 }
