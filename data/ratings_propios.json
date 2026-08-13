@@ -628,25 +628,25 @@
       "nombre": "Toluca",
       "pais": "Mexico",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1662.31,
+      "rd": 290.32,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-13"
     },
     "espn:185": {
       "nombre": "FC Dallas",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1337.69,
+      "rd": 290.32,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-13"
     },
     "espn:22529": {
       "nombre": "San Diego FC",
@@ -725,24 +725,24 @@
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
       "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rd": 290.32,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-13"
     },
     "espn:2671": {
       "nombre": "Cerro Porteño",
       "pais": null,
       "liga": "CONMEBOL Libertadores",
       "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rd": 290.32,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-13"
     },
     "espn:7764": {
       "nombre": "Platense",
