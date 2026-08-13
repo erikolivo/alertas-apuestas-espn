@@ -174,5 +174,85 @@
   "19002": {
     "nombre": "Montevideo City Torque",
     "pais": "Uruguay"
+  },
+  "10739": {
+    "nombre": "Philadelphia Union",
+    "pais": "USA"
+  },
+  "225": {
+    "nombre": "Santos",
+    "pais": "Mexico"
+  },
+  "17606": {
+    "nombre": "New York City FC",
+    "pais": "USA"
+  },
+  "229": {
+    "nombre": "Necaxa",
+    "pais": "Mexico"
+  },
+  "227": {
+    "nombre": "América",
+    "pais": "Mexico"
+  },
+  "20906": {
+    "nombre": "Austin FC",
+    "pais": "USA"
+  },
+  "218": {
+    "nombre": "Cruz Azul",
+    "pais": "Mexico"
+  },
+  "182": {
+    "nombre": "Chicago Fire FC",
+    "pais": "USA"
+  },
+  "9723": {
+    "nombre": "Portland Timbers",
+    "pais": "USA"
+  },
+  "10125": {
+    "nombre": "Tijuana",
+    "pais": "Mexico"
+  },
+  "9169": {
+    "nombre": "Mirassol",
+    "pais": "Brazil"
+  },
+  "4816": {
+    "nombre": "Liga de Quito",
+    "pais": null
+  },
+  "17": {
+    "nombre": "Rosario Central",
+    "pais": "Argentina"
+  },
+  "874": {
+    "nombre": "Corinthians",
+    "pais": "Brazil"
+  },
+  "2674": {
+    "nombre": "Santos",
+    "pais": "Brazil"
+  },
+  "18439": {
+    "nombre": "Macará",
+    "pais": null
+  },
+  "3454": {
+    "nombre": "Vasco da Gama",
+    "pais": "Brazil"
+  },
+  "2675": {
+    "nombre": "Club Olimpia",
+    "pais": null
+  },
+  "3372": {
+    "nombre": "Cienciano del Cusco",
+    "pais": "Peru"
+  },
+  "6086": {
+    "nombre": "Botafogo",
+    "pais": "Brazil"
   }
 }
