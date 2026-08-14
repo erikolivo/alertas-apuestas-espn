@@ -105,15 +105,16 @@ def _construir_favoritos_cuota_real(fixtures_api):
     ya vinieron en la misma peticion de fixtures). Fuente SECUNDARIA
     (respaldo, solo llena huecos): The Odds API via cuotas_reales.py,
     para ligas que DraftKings no cotiza.
+
+    Cada entrada ahora guarda la cuota/probabilidad de AMBOS lados
+    (lado_favorito/probabilidad_favorito para el filtro, cuota_local/
+    cuota_visitante para poder mostrar los dos en el resumen).
     """
     favoritos = {}
     for f in fixtures_api:
         fav = extraer_favorito_odds_espn(f)
-        if fav and fav["probabilidad"] >= UMBRAL_FAVORITO_CUOTA_REAL_ESPN:
-            favoritos[f["fixture"]["id"]] = {
-                "lado": fav["lado"], "probabilidad": fav["probabilidad"],
-                "cuota": fav["cuota_decimal"], "casa_apuestas": fav["casa_apuestas"],
-            }
+        if fav and fav["probabilidad_favorito"] >= UMBRAL_FAVORITO_CUOTA_REAL_ESPN:
+            favoritos[f["fixture"]["id"]] = fav
     print(f"Cuotas embebidas de ESPN (DraftKings): {len(favoritos)} favorito(s) claro(s) detectado(s).")
 
     try:
@@ -257,18 +258,29 @@ def seleccionar():
         favorito_nombre = home if evaluacion["lado"] == "local" else away
         no_favorito_nombre = away if evaluacion["lado"] == "local" else home
 
+        # Cuota del modelo propio para AMBOS lados (a pedido explicito,
+        # antes solo se guardaba la del favorito).
+        cuota_no_favorito_modelo = evaluacion["cuota_visitante"] if evaluacion["lado"] == "local" else evaluacion["cuota_local"]
+
         verificado_cuota_real = False
         discrepancia_cuota_real = False
         cuota_real_info = {}
         if es_favorito_por_cuota_real:
-            lado_odds = datos_cuota_real["lado"]
+            lado_odds = datos_cuota_real["lado_favorito"]
             if lado_odds == evaluacion["lado"]:
                 verificado_cuota_real = True
             else:
                 discrepancia_cuota_real = True
+            # Cuota real alineada al favorito SEGUN EL MODELO PROPIO
+            # (no segun quien la fuente de cuota real elija) -- asi la
+            # comparacion en resumen.py es directa incluso cuando hay
+            # discrepancia entre las dos fuentes.
+            cuota_real_favorito = datos_cuota_real["cuota_local"] if evaluacion["lado"] == "local" else datos_cuota_real["cuota_visitante"]
+            cuota_real_no_favorito = datos_cuota_real["cuota_visitante"] if evaluacion["lado"] == "local" else datos_cuota_real["cuota_local"]
             cuota_real_info = {
-                "cuota_real": datos_cuota_real["cuota"],
-                "probabilidad_cuota_real": round(datos_cuota_real["probabilidad"] * 100, 1),
+                "cuota_real": cuota_real_favorito,
+                "cuota_real_no_favorito": cuota_real_no_favorito,
+                "probabilidad_cuota_real": round(datos_cuota_real["probabilidad_favorito"] * 100, 1),
                 "casa_apuestas": datos_cuota_real["casa_apuestas"],
                 "lado_favorito_cuota_real": lado_odds,
             }
@@ -281,6 +293,7 @@ def seleccionar():
             "no_favorito": no_favorito_nombre,
             "favorito_es_local": evaluacion["lado"] == "local",
             "cuota_inicial": evaluacion["cuota_inicial"],
+            "cuota_no_favorito": cuota_no_favorito_modelo,
             "probabilidad_inicial": round(evaluacion["probabilidad"] * 100, 1),
             "lambda_local": evaluacion["lambda_local"],
             "lambda_visitante": evaluacion["lambda_visitante"],

@@ -1,9 +1,13 @@
 """
 resumen.py
 ----------
-FASE 2. SIN CAMBIOS FUNCIONALES por la migracion a ESPN -- lee
-partidos_hoy.json, que sigue teniendo la misma forma. Reintenta cada 15
-min entre las 07:00 y las 08:30.
+FASE 2. AJUSTADO a pedido explicito (agosto 2026):
+  - Estrella (fav ⭐) junto al nombre del favorito, igual que en las
+    alertas en vivo de monitor.py.
+  - Se muestran las cuotas de AMBOS lados (favorito y no favorito) del
+    modelo propio, siempre. Cuando ademas hay cuota real (DraftKings
+    via ESPN o el respaldo de The Odds API), se agrega una segunda
+    linea con la cuota real de los dos lados, para poder comparar.
 """
 
 import json
@@ -42,7 +46,7 @@ def enviar_resumen():
 
     if not partidos:
         exito = enviar_mensaje_telegram(
-            "\U0001F4CB Hoy no hay partidos con favorito de probabilidad inicial >= 60%."
+            "\U0001F4CB Hoy no hay partidos con favorito de probabilidad inicial >= 65%."
         )
         if exito:
             marcar_hecho("resumen")
@@ -64,10 +68,20 @@ def enviar_resumen():
             etiqueta = " \U0001F4B0 <b>solo cuota real</b>"
         elif p.get("discrepancia_cuota_real"):
             etiqueta = f" \u26A0\uFE0F cuota real favorece a {escapar_html(p.get('lado_favorito_cuota_real',''))}"
+
         lineas.append(
-            f"- {hora} -- {escapar_html(p['partido'])} - favorito: {escapar_html(p['favorito'])} "
-            f"(cuota inicial {p['cuota_inicial']}) {estado}{etiqueta}"
+            f"\n\u2B50 {hora} -- {escapar_html(p['partido'])} {estado}{etiqueta}"
         )
+        lineas.append(
+            f"Modelo propio: {escapar_html(p['favorito'])} {p['cuota_inicial']} / "
+            f"{escapar_html(p['no_favorito'])} {p.get('cuota_no_favorito', '?')}"
+        )
+        if p.get("cuota_real") is not None:
+            lineas.append(
+                f"Cuota real ({escapar_html(p.get('casa_apuestas',''))}): "
+                f"{escapar_html(p['favorito'])} {p['cuota_real']} / "
+                f"{escapar_html(p['no_favorito'])} {p.get('cuota_real_no_favorito', '?')}"
+            )
 
     exito = enviar_mensaje_telegram("\n".join(lineas))
     if exito:

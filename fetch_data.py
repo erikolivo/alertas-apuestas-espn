@@ -204,15 +204,18 @@ def obtener_fixtures_por_fecha(fecha_iso):
 def extraer_favorito_odds_espn(fixture):
     """
     A partir de '_odds_raw' (guardado por obtener_fixtures_por_fecha),
-    calcula el lado favorito y su probabilidad implicita usando la
-    cuota REAL de DraftKings que ESPN ya trae embebida en el scoreboard
-    -- SIN gastar ninguna peticion adicional (a diferencia de The Odds
-    API, que si tiene cupo mensual limitado).
+    calcula la probabilidad implicita de AMBOS lados usando la cuota
+    REAL de DraftKings que ESPN ya trae embebida en el scoreboard --
+    SIN gastar ninguna peticion adicional.
 
-    Devuelve {"lado": "local"/"visitante", "probabilidad": 0-1,
-    "cuota_decimal": .., "casa_apuestas": "DraftKings"} o None si el
-    partido no trae mercado de moneyline (comun en ligas chicas -- no es
-    un error, DraftKings simplemente no cotiza esa liga).
+    AMPLIADO (a pedido explicito): antes solo devolvia el lado favorito.
+    Ahora devuelve cuota_local/cuota_visitante y probabilidad_local/
+    probabilidad_visitante de los DOS lados, para que resumen.py pueda
+    mostrar la comparacion completa, no solo la del favorito.
+
+    Devuelve un dict o None si el partido no trae mercado de moneyline
+    (comun en ligas chicas -- no es un error, DraftKings simplemente no
+    cotiza esa liga).
     """
     odds_list = fixture.get("_odds_raw")
     if not odds_list:
@@ -249,15 +252,16 @@ def extraer_favorito_odds_espn(fixture):
     p_home_norm = p_home / total
     p_away_norm = p_away / total
 
-    if p_home_norm >= p_away_norm:
-        lado, prob = "local", p_home_norm
-    else:
-        lado, prob = "visitante", p_away_norm
+    lado_favorito = "local" if p_home_norm >= p_away_norm else "visitante"
+    prob_favorito = p_home_norm if lado_favorito == "local" else p_away_norm
 
     return {
-        "lado": lado,
-        "probabilidad": round(prob, 4),
-        "cuota_decimal": round(1 / prob, 2) if prob > 0 else None,
+        "lado_favorito": lado_favorito,
+        "probabilidad_favorito": round(prob_favorito, 4),
+        "probabilidad_local": round(p_home_norm, 4),
+        "probabilidad_visitante": round(p_away_norm, 4),
+        "cuota_local": round(1 / p_home_norm, 2) if p_home_norm > 0 else None,
+        "cuota_visitante": round(1 / p_away_norm, 2) if p_away_norm > 0 else None,
         "casa_apuestas": "DraftKings (via ESPN)",
     }
 

@@ -1,11 +1,17 @@
 """
 cuotas_reales.py
 ------------------
-SIN CAMBIOS DE LOGICA por la migracion a ESPN -- sigue siendo funcional
-como fuente SECUNDARIA de cuota real (The Odds API), llamada desde
+Fuente SECUNDARIA de cuota real (The Odds API), llamada desde
 seleccionar_partidos.py DESPUES de intentar primero con las cuotas de
 DraftKings embebidas en ESPN (gratis, sin cupo). Este modulo solo llena
 huecos que ESPN no cubrio.
+
+CAMBIOS (agosto 2026): (1) la probabilidad ahora se calcula quitando el
+margen de la casa de apuestas -- ver _favorito_desde_evento(). (2)
+_favorito_desde_evento() y obtener_favoritos_cuota_real() ahora
+devuelven la cuota/probabilidad de AMBOS lados (local y visitante), no
+solo del favorito, para que seleccionar_partidos.py pueda mostrar la
+comparacion completa en el resumen de Telegram.
 
 Filosofia (igual que siempre): nunca gastar una peticion si se puede
 evitar. Solo se consultan ligas que tienen partidos hoy, se valida el
@@ -22,6 +28,24 @@ UMBRAL_FAVORITO_CUOTA_REAL = 0.65  # alineado con PROB_MINIMA_FAVORITO tras el c
 
 
 def _favorito_desde_evento(evento):
+    """
+    CORREGIDO (agosto 2026): antes calculaba la probabilidad como
+    1/cuota directo, sin quitar el margen de la casa de apuestas (el
+    "overround") -- eso infla artificialmente la probabilidad de
+    CUALQUIER resultado, porque las 3 probabilidades implicitas (local+
+    empate+visitante) siempre suman MAS de 100% en una cuota real (ese
+    excedente es la ganancia de la casa). Con una cuota de 1.50, por
+    ejemplo, el metodo viejo daba 66.7% cuando la probabilidad real de
+    mercado (quitando el margen) es mas cercana a 63%. Esto podia colar
+    a la lista de favoritos un equipo que el umbral del 65% deberia
+    haber rechazado.
+
+    Ahora se normaliza dividiendo entre la suma de las probabilidades
+    implicitas de los 3 resultados (de-vig) -- MISMA metodologia que ya
+    usaba fetch_data.extraer_favorito_odds_espn() para las cuotas de
+    DraftKings, para que las dos fuentes de cuota real midan con la
+    misma vara.
+    """
     bookmakers = evento.get("bookmakers", [])
     if not bookmakers:
         return None
@@ -39,13 +63,36 @@ def _favorito_desde_evento(evento):
     if not cuota_home or not cuota_away:
         return None
 
-    if cuota_home <= cuota_away:
-        lado, cuota = "local", cuota_home
-    else:
-        lado, cuota = "visitante", cuota_away
+    p_home = 1 / cuota_home
+    p_away = 1 / cuota_away
+    p_draw = 0.0
+    cuota_draw = precios.get("Draw")
+    if cuota_draw:
+        p_draw = 1 / cuota_draw
 
-    probabilidad = round(1 / cuota, 4)
-    return lado, probabilidad, cuota, bk.get("title", "?")
+    total = p_home + p_away + p_draw
+    if total <= 0:
+        return None
+    p_home_norm = p_home / total
+    p_away_norm = p_away / total
+
+    if p_home_norm >= p_away_norm:
+        lado_favorito, prob_favorito = "local", p_home_norm
+    else:
+        lado_favorito, prob_favorito = "visitante", p_away_norm
+
+    cuota_local = round(1 / p_home_norm, 2) if p_home_norm > 0 else None
+    cuota_visitante = round(1 / p_away_norm, 2) if p_away_norm > 0 else None
+
+    return {
+        "lado_favorito": lado_favorito,
+        "probabilidad_favorito": round(prob_favorito, 4),
+        "probabilidad_local": round(p_home_norm, 4),
+        "probabilidad_visitante": round(p_away_norm, 4),
+        "cuota_local": cuota_local,
+        "cuota_visitante": cuota_visitante,
+        "casa_apuestas": bk.get("title", "?"),
+    }
 
 
 def obtener_favoritos_cuota_real(fixtures_api):
@@ -93,10 +140,7 @@ def obtener_favoritos_cuota_real(fixtures_api):
 
         for evento in eventos:
             favorito = _favorito_desde_evento(evento)
-            if not favorito:
-                continue
-            lado, probabilidad, cuota, casa = favorito
-            if probabilidad < UMBRAL_FAVORITO_CUOTA_REAL:
+            if not favorito or favorito["probabilidad_favorito"] < UMBRAL_FAVORITO_CUOTA_REAL:
                 continue
 
             home_odds = evento.get("home_team", "")
@@ -111,9 +155,7 @@ def obtener_favoritos_cuota_real(fixtures_api):
             if not fixture:
                 continue
 
-            resultado[fixture["fixture"]["id"]] = {
-                "lado": lado, "probabilidad": probabilidad, "cuota": cuota, "casa_apuestas": casa,
-            }
+            resultado[fixture["fixture"]["id"]] = favorito
 
     print(f"Cuotas reales (The Odds API): {ligas_consultadas} liga(s) consultada(s), "
           f"{len(resultado)} favorito(s) claro(s) detectado(s).")

@@ -96,6 +96,14 @@ def evaluar_favorito(rating_local, rd_local, rating_visitante, rd_visitante,
         "cuota_inicial": round(1 / prob, 2) if prob > 0 else None,
         "lambda_local": round(lam_local, 3),
         "lambda_visitante": round(lam_visitante, 3),
+        # NUEVO (a pedido explicito): cuota del modelo propio para AMBOS
+        # lados, no solo el favorito -- resumen.py las muestra las dos
+        # para que la persona pueda comparar. Se ignora el empate en
+        # estos dos calculos, igual que en el resto del sistema.
+        "probabilidad_local": p_local,
+        "probabilidad_visitante": p_visitante,
+        "cuota_local": round(1 / p_local, 2) if p_local > 0 else None,
+        "cuota_visitante": round(1 / p_visitante, 2) if p_visitante > 0 else None,
     }
 
 
