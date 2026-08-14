@@ -1,9 +1,13 @@
 name: Fase 2 - Resumen diario
 
-# Local (UTC-5): reintenta cada 15 min entre las 07:00 y las 08:30.
+# Local (UTC-5): reintenta cada 5 min entre las 07:00 y las 07:15 (a
+# pedido explicito: se quiere el mensaje justo a las 7am, se acorto la
+# ventana de reintento de 07:00-08:30 a solo este colchon corto -- lo
+# suficiente para absorber un atraso tipico de GitHub Actions sin
+# arriesgarse a que llegue tarde en la manana).
 on:
   schedule:
-    - cron: "0,15,30,45 12-13 * * *"   # 12:00-13:59 UTC = 07:00-08:59 local
+    - cron: "0,5,10,15 12 * * *"   # 12:00-12:15 UTC = 07:00-07:15 local
   workflow_dispatch: {}
 
 jobs:
