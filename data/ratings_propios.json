@@ -340,13 +340,13 @@
       "nombre": "FC Cincinnati",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1337.69,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1376.0,
+      "rd": 256.35,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-12"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-16"
     },
     "espn:216": {
       "nombre": "Atlas",
@@ -376,13 +376,13 @@
       "nombre": "Atlante",
       "pais": "Italy",
       "liga": "Leagues Cup",
-      "rating": 1337.69,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1423.31,
+      "rd": 260.49,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-12"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-16"
     },
     "espn:4771": {
       "nombre": "Real Salt Lake",
@@ -436,13 +436,13 @@
       "nombre": "Fluminense",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1667.51,
+      "rd": 281.31,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-16"
     },
     "espn:9744": {
       "nombre": "Independiente Rivadavia",
@@ -545,12 +545,12 @@
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
       "rating": 1500.0,
-      "rd": 290.32,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rd": 253.53,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-12"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-16"
     },
     "espn:20232": {
       "nombre": "Inter Miami CF",
@@ -580,13 +580,13 @@
       "nombre": "Orlando City SC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1442.38,
+      "rd": 286.93,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-16"
     },
     "espn:15720": {
       "nombre": "Atlético de San Luis",
@@ -628,13 +628,13 @@
       "nombre": "Toluca",
       "pais": "Mexico",
       "liga": "Leagues Cup",
-      "rating": 1662.31,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1576.69,
+      "rd": 260.49,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-13"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-16"
     },
     "espn:185": {
       "nombre": "FC Dallas",
@@ -724,13 +724,13 @@
       "nombre": "Palmeiras",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1500.0,
-      "rd": 290.32,
+      "rating": 1376.22,
+      "rd": 253.53,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-13"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-16"
     },
     "espn:2671": {
       "nombre": "Cerro Porteño",
@@ -1997,12 +1997,12 @@
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
       "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rd": 281.31,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-16"
     },
     "espn:9739": {
       "nombre": "Aldosivi",
