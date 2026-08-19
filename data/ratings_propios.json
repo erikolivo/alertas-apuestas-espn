@@ -436,25 +436,25 @@
       "nombre": "Fluminense",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1667.51,
-      "rd": 281.31,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1629.9,
+      "rd": 250.26,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-16"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-19"
     },
     "espn:9744": {
       "nombre": "Independiente Rivadavia",
       "pais": "Argentina",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1560.61,
+      "rd": 286.09,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-19"
     },
     "espn:5489": {
       "nombre": "Deportes Tolima",
@@ -532,25 +532,25 @@
       "nombre": "Bolívar",
       "pais": "Bolivia",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1500.0,
-      "rd": 290.32,
+      "rating": 1367.14,
+      "rd": 243.41,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-12"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-19"
     },
     "espn:2026": {
       "nombre": "São Paulo",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1500.0,
-      "rd": 253.53,
+      "rating": 1605.77,
+      "rd": 223.54,
       "vol": 0.059998,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-16"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-08-19"
     },
     "espn:20232": {
       "nombre": "Inter Miami CF",
