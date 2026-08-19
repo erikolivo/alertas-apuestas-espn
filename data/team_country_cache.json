@@ -254,5 +254,13 @@
   "6086": {
     "nombre": "Botafogo",
     "pais": "Brazil"
+  },
+  "5488": {
+    "nombre": "Independiente Santa Fe",
+    "pais": "Colombia"
+  },
+  "16": {
+    "nombre": "River Plate",
+    "pais": "Argentina"
   }
 }
