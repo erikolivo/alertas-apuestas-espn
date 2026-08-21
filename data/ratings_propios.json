@@ -3599,6 +3599,90 @@
       "partidos_bootstrap": 0,
       "partidos_reales": 0,
       "ultima_actualizacion": null
+    },
+    "espn:359": {
+      "nombre": "Arsenal",
+      "pais": "England",
+      "liga": "Premier League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:388": {
+      "nombre": "Coventry City",
+      "pais": "England",
+      "liga": "Premier League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:244": {
+      "nombre": "Real Betis",
+      "pais": "Spain",
+      "liga": "La Liga",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:89": {
+      "nombre": "Real Sociedad",
+      "pais": "Spain",
+      "liga": "La Liga",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:176": {
+      "nombre": "Marseille",
+      "pais": "France",
+      "liga": "Ligue 1",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:180": {
+      "nombre": "Strasbourg",
+      "pais": "France",
+      "liga": "Ligue 1",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:10309": {
+      "nombre": "Jaguares de Córdoba",
+      "pais": "Colombia",
+      "liga": "Primera A",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
     }
   }
 }
