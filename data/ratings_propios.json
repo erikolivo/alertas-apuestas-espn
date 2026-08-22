@@ -1204,13 +1204,13 @@
       "nombre": "Galatasaray",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 290.32,
+      "rating": 1623.78,
+      "rd": 253.53,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-15"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-22"
     },
     "espn:132334": {
       "nombre": "Çorum FK",
@@ -2908,13 +2908,13 @@
       "nombre": "Erzurum BB",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1332.49,
+      "rd": 281.31,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-22"
     },
     "espn:1895": {
       "nombre": "Besiktas",
