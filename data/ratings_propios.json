@@ -424,25 +424,25 @@
       "nombre": "Vancouver Whitecaps",
       "pais": "Canada",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1616.64,
+      "rd": 286.93,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:3445": {
       "nombre": "Fluminense",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1629.9,
-      "rd": 250.26,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1706.97,
+      "rd": 223.07,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-19"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:9744": {
       "nombre": "Independiente Rivadavia",
@@ -640,13 +640,13 @@
       "nombre": "FC Dallas",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1337.69,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1249.46,
+      "rd": 256.35,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-13"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:22529": {
       "nombre": "San Diego FC",
@@ -1108,13 +1108,13 @@
       "nombre": "Real Sociedad II",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1337.69,
-      "rd": 290.32,
+      "rating": 1502.55,
+      "rd": 256.35,
       "vol": 0.06,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-15"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:4438": {
       "nombre": "Castellón",
@@ -1144,25 +1144,25 @@
       "nombre": "Sparta Rotterdam",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1662.31,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1624.0,
+      "rd": 256.35,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-15"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:2250": {
       "nombre": "Sporting CP",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1662.31,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1750.54,
+      "rd": 256.35,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-15"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:5309": {
       "nombre": "Vitória de Guimaraes",
@@ -1660,13 +1660,13 @@
       "nombre": "FC Utrecht",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1557.62,
+      "rd": 286.93,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:140": {
       "nombre": "AZ Alkmaar",
@@ -1732,13 +1732,13 @@
       "nombre": "Alverca",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1383.36,
+      "rd": 286.93,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:21610": {
       "nombre": "Estrela",
@@ -2405,12 +2405,12 @@
       "pais": "England",
       "liga": "Championship",
       "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rd": 281.31,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:376": {
       "nombre": "Southampton",
@@ -2584,13 +2584,13 @@
       "nombre": "Albacete",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1268.12,
+      "rd": 286.93,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:2726": {
       "nombre": "ADO Den Haag",
@@ -3293,12 +3293,12 @@
       "pais": "England",
       "liga": "Championship",
       "rating": 1500.0,
-      "rd": 290.32,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rd": 253.53,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-18"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:90": {
       "nombre": "Deportivo",
@@ -3436,13 +3436,13 @@
       "nombre": "Remo",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1500.0,
-      "rd": 290.32,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1402.39,
+      "rd": 246.05,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-18"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-23"
     },
     "espn:19685": {
       "nombre": "Estudiantes de Río Cuarto",
