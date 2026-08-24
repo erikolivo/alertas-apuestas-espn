@@ -3316,13 +3316,13 @@
       "nombre": "Elche",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1500.0,
-      "rd": 290.32,
+      "rating": 1376.22,
+      "rd": 253.53,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-18"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-24"
     },
     "espn:3788": {
       "nombre": "Sporting Gijón",
@@ -4288,13 +4288,13 @@
       "nombre": "Barcelona",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1667.51,
+      "rd": 281.31,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-24"
     },
     "espn:4057": {
       "nombre": "Frosinone",
