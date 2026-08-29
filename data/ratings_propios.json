@@ -1156,13 +1156,13 @@
       "nombre": "Sporting CP",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1750.54,
-      "rd": 256.35,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1809.07,
+      "rd": 234.69,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-23"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-08-29"
     },
     "espn:5309": {
       "nombre": "Vitória de Guimaraes",
@@ -1480,13 +1480,13 @@
       "nombre": "Birmingham City",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1670.08,
+      "rd": 275.4,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-29"
     },
     "espn:96": {
       "nombre": "Alavés",
@@ -1768,13 +1768,13 @@
       "nombre": "Rio Ave",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1407.26,
+      "rd": 290.41,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-29"
     },
     "espn:437": {
       "nombre": "FC Porto",
@@ -2452,13 +2452,13 @@
       "nombre": "Racing Santander",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1627.61,
+      "rd": 279.33,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-29"
     },
     "espn:102": {
       "nombre": "Villarreal",
@@ -3292,13 +3292,13 @@
       "nombre": "Wrexham",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 253.53,
+      "rating": 1399.91,
+      "rd": 227.98,
       "vol": 0.059998,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-23"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-08-29"
     },
     "espn:90": {
       "nombre": "Deportivo",
@@ -3316,13 +3316,13 @@
       "nombre": "Elche",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1376.22,
-      "rd": 253.53,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1298.73,
+      "rd": 229.19,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-24"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-08-29"
     },
     "espn:3788": {
       "nombre": "Sporting Gijón",
