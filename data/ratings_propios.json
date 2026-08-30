@@ -424,13 +424,13 @@
       "nombre": "Vancouver Whitecaps",
       "pais": "Canada",
       "liga": "Leagues Cup",
-      "rating": 1616.64,
-      "rd": 286.93,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1712.46,
+      "rd": 252.72,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-23"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:3445": {
       "nombre": "Fluminense",
@@ -1144,13 +1144,13 @@
       "nombre": "Sparta Rotterdam",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1624.0,
-      "rd": 256.35,
+      "rating": 1496.86,
+      "rd": 231.27,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-23"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:2250": {
       "nombre": "Sporting CP",
@@ -1204,13 +1204,13 @@
       "nombre": "Galatasaray",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1623.78,
-      "rd": 253.53,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1701.27,
+      "rd": 229.19,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-22"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:132334": {
       "nombre": "Çorum FK",
@@ -1469,12 +1469,12 @@
       "pais": "England",
       "liga": "Championship",
       "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rd": 281.31,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:392": {
       "nombre": "Birmingham City",
@@ -1588,13 +1588,13 @@
       "nombre": "Real Oviedo",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1598.44,
+      "rd": 291.87,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:3747": {
       "nombre": "Granada",
@@ -1684,13 +1684,13 @@
       "nombre": "Excelsior",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1721.91,
+      "rd": 279.76,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:148": {
       "nombre": "PSV Eindhoven",
@@ -2176,13 +2176,13 @@
       "nombre": "Sporting Kansas City",
       "pais": "USA",
       "liga": "Major League Soccer",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1370.3,
+      "rd": 283.79,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:191": {
       "nombre": "San Jose Earthquakes",
@@ -2405,12 +2405,12 @@
       "pais": "England",
       "liga": "Championship",
       "rating": 1500.0,
-      "rd": 281.31,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rd": 247.48,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-23"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:376": {
       "nombre": "Southampton",
@@ -2441,12 +2441,12 @@
       "pais": "England",
       "liga": "Championship",
       "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rd": 279.88,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:87": {
       "nombre": "Racing Santander",
@@ -2584,13 +2584,13 @@
       "nombre": "Albacete",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1268.12,
-      "rd": 286.93,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1194.46,
+      "rd": 256.6,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-23"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:2726": {
       "nombre": "ADO Den Haag",
@@ -3281,12 +3281,12 @@
       "pais": "England",
       "liga": "Championship",
       "rating": 1500.0,
-      "rd": 290.32,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rd": 253.53,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-18"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:352": {
       "nombre": "Wrexham",
@@ -3412,13 +3412,13 @@
       "nombre": "Goztepe",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1372.39,
+      "rd": 279.33,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-08-30"
     },
     "espn:1936": {
       "nombre": "Internacional",
