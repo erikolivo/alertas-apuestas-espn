@@ -4847,6 +4847,90 @@
       "partidos_bootstrap": 0,
       "partidos_reales": 0,
       "ultima_actualizacion": null
+    },
+    "espn:126": {
+      "nombre": "SC Freiburg",
+      "pais": "Germany",
+      "liga": "Bundesliga",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:137": {
+      "nombre": "Werder Bremen",
+      "pais": "Germany",
+      "liga": "Bundesliga",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:3841": {
+      "nombre": "FC Augsburg",
+      "pais": "Germany",
+      "liga": "Bundesliga",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:133": {
+      "nombre": "Schalke 04",
+      "pais": "Germany",
+      "liga": "Bundesliga",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:263": {
+      "nombre": "Aberdeen",
+      "pais": "Scotland",
+      "liga": "Premiership",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:258": {
+      "nombre": "Hibernian",
+      "pais": "Scotland",
+      "liga": "Premiership",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:266": {
+      "nombre": "Motherwell",
+      "pais": "Scotland",
+      "liga": "Premiership",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
     }
   }
 }
