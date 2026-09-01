@@ -1108,13 +1108,13 @@
       "nombre": "Real Sociedad II",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1502.55,
-      "rd": 256.35,
-      "vol": 0.06,
-      "partidos_jugados": 2,
+      "rating": 1502.05,
+      "rd": 230.02,
+      "vol": 0.059999,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-23"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-01"
     },
     "espn:4438": {
       "nombre": "Castellón",
@@ -1168,13 +1168,13 @@
       "nombre": "Vitória de Guimaraes",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1337.69,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1249.46,
+      "rd": 256.35,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-15"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-01"
     },
     "espn:3610": {
       "nombre": "Cercle Brugge KSV",
@@ -1216,13 +1216,13 @@
       "nombre": "Çorum FK",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 290.32,
+      "rating": 1376.22,
+      "rd": 253.53,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-15"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-01"
     },
     "espn:15": {
       "nombre": "Racing Club",
@@ -1528,13 +1528,13 @@
       "nombre": "Rayo Vallecano",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1407.52,
+      "rd": 289.8,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-01"
     },
     "espn:20179": {
       "nombre": "FC Andorra",
@@ -2524,13 +2524,13 @@
       "nombre": "Burgos",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1500.97,
+      "rd": 275.86,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-01"
     },
     "espn:8447": {
       "nombre": "Córdoba",
@@ -2692,13 +2692,13 @@
       "nombre": "Estoril",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1383.36,
+      "rd": 286.93,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-01"
     },
     "espn:15784": {
       "nombre": "Arouca",
@@ -2728,13 +2728,13 @@
       "nombre": "Braga",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1616.64,
+      "rd": 286.93,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-01"
     },
     "espn:3699": {
       "nombre": "Gil Vicente",
@@ -2920,13 +2920,13 @@
       "nombre": "Besiktas",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1667.51,
+      "rd": 281.31,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-01"
     },
     "espn:20729": {
       "nombre": "Eyupspor",
@@ -3388,13 +3388,13 @@
       "nombre": "Benfica",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1662.31,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1750.54,
+      "rd": 256.35,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-18"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-01"
     },
     "espn:11429": {
       "nombre": "Samsunspor",
@@ -4288,13 +4288,13 @@
       "nombre": "Barcelona",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1750.51,
-      "rd": 250.26,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1806.73,
+      "rd": 230.01,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-28"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-01"
     },
     "espn:4057": {
       "nombre": "Frosinone",
