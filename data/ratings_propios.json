@@ -1084,13 +1084,13 @@
       "nombre": "Wolverhampton Wanderers",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 290.32,
+      "rating": 1369.42,
+      "rd": 246.33,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-15"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-02"
     },
     "espn:365": {
       "nombre": "Blackburn Rovers",
@@ -1456,13 +1456,13 @@
       "nombre": "Swansea City",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1670.45,
+      "rd": 274.42,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-02"
     },
     "espn:398": {
       "nombre": "Sheffield United",
@@ -2404,13 +2404,13 @@
       "nombre": "Watford",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 247.48,
+      "rating": 1403.75,
+      "rd": 223.57,
       "vol": 0.059998,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-30"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-02"
     },
     "espn:376": {
       "nombre": "Southampton",
@@ -2440,13 +2440,13 @@
       "nombre": "West Ham United",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 279.88,
+      "rating": 1622.86,
+      "rd": 240.92,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-30"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-02"
     },
     "espn:87": {
       "nombre": "Racing Santander",
