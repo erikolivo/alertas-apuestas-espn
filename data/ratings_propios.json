@@ -1336,13 +1336,13 @@
       "nombre": "Millwall",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1284.61,
+      "rd": 274.12,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-03"
     },
     "espn:372": {
       "nombre": "Charlton Athletic",
@@ -3292,13 +3292,13 @@
       "nombre": "Wrexham",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1399.91,
-      "rd": 227.98,
+      "rating": 1500.57,
+      "rd": 209.55,
       "vol": 0.059998,
-      "partidos_jugados": 3,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-08-29"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-03"
     },
     "espn:90": {
       "nombre": "Deportivo",
