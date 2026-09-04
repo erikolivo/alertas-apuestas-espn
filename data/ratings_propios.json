@@ -1816,13 +1816,13 @@
       "nombre": "KV Kortrijk",
       "pais": "Belgium",
       "liga": "Jupiler Pro League",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1268.12,
+      "rd": 286.93,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-04"
     },
     "espn:17544": {
       "nombre": "Antwerp",
@@ -2788,13 +2788,13 @@
       "nombre": "Anderlecht",
       "pais": "Belgium",
       "liga": "Jupiler Pro League",
-      "rating": 1337.69,
-      "rd": 290.32,
+      "rating": 1502.55,
+      "rd": 256.35,
       "vol": 0.06,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-04"
     },
     "espn:131235": {
       "nombre": "RAAL La Louvière",
