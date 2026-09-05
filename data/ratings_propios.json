@@ -1144,13 +1144,13 @@
       "nombre": "Sparta Rotterdam",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1496.86,
-      "rd": 231.27,
-      "vol": 0.059999,
-      "partidos_jugados": 3,
+      "rating": 1497.38,
+      "rd": 211.44,
+      "vol": 0.059998,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-08-30"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-05"
     },
     "espn:2250": {
       "nombre": "Sporting CP",
@@ -1852,13 +1852,13 @@
       "nombre": "Club Brugge",
       "pais": "Belgium",
       "liga": "Jupiler Pro League",
-      "rating": 1337.69,
-      "rd": 290.32,
+      "rating": 1502.55,
+      "rd": 256.35,
       "vol": 0.06,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-05"
     },
     "espn:938": {
       "nombre": "Racing Genk",
@@ -2632,13 +2632,13 @@
       "nombre": "PEC Zwolle",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1498.75,
+      "rd": 271.77,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-05"
     },
     "espn:142": {
       "nombre": "Feyenoord Rotterdam",
@@ -2848,13 +2848,13 @@
       "nombre": "Lommel SK",
       "pais": "Belgium",
       "liga": "Jupiler Pro League",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1268.12,
+      "rd": 286.93,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-05"
     },
     "espn:3616": {
       "nombre": "Royal Charleroi SC",
@@ -3628,13 +3628,13 @@
       "nombre": "Real Betis",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1737.0,
+      "rd": 285.95,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-05"
     },
     "espn:89": {
       "nombre": "Real Sociedad",
@@ -3844,13 +3844,13 @@
       "nombre": "Real Madrid",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1668.19,
-      "rd": 279.88,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1511.07,
+      "rd": 249.27,
+      "vol": 0.060001,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-05"
     },
     "espn:110": {
       "nombre": "Internazionale",
@@ -4432,13 +4432,13 @@
       "nombre": "AS Monaco",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1662.31,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1750.54,
+      "rd": 256.35,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-05"
     },
     "espn:169": {
       "nombre": "Stade Rennais",
@@ -4456,13 +4456,13 @@
       "nombre": "Paris Saint-Germain",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1383.36,
+      "rd": 286.93,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-05"
     },
     "espn:1010": {
       "nombre": "OFI Crete",
