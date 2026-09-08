@@ -266,5 +266,53 @@
   "228": {
     "nombre": "León",
     "pais": "Mexico"
+  },
+  "887": {
+    "nombre": "AEK Athens",
+    "pais": "Greece"
+  },
+  "4411": {
+    "nombre": "LASK Linz",
+    "pais": "Austria"
+  },
+  "570": {
+    "nombre": "Club Brugge",
+    "pais": "Belgium"
+  },
+  "362": {
+    "nombre": "Aston Villa",
+    "pais": "England"
+  },
+  "124": {
+    "nombre": "Borussia Dortmund",
+    "pais": "Germany"
+  },
+  "102": {
+    "nombre": "Villarreal",
+    "pais": "Spain"
+  },
+  "437": {
+    "nombre": "FC Porto",
+    "pais": "Portugal"
+  },
+  "382": {
+    "nombre": "Manchester City",
+    "pais": "England"
+  },
+  "166": {
+    "nombre": "Lille",
+    "pais": "France"
+  },
+  "244": {
+    "nombre": "Real Betis",
+    "pais": "Spain"
+  },
+  "86": {
+    "nombre": "Real Madrid",
+    "pais": "Spain"
+  },
+  "110": {
+    "nombre": "Internazionale",
+    "pais": "Italy"
   }
 }
