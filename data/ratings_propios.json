@@ -4943,6 +4943,30 @@
       "partidos_bootstrap": 0,
       "partidos_reales": 0,
       "ultima_actualizacion": null
+    },
+    "espn:510": {
+      "nombre": "Viking FK",
+      "pais": "Norway",
+      "liga": "UEFA Champions League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:521": {
+      "nombre": "Slovan Bratislava",
+      "pais": null,
+      "liga": "UEFA Champions League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
     }
   }
 }

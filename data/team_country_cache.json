@@ -314,5 +314,53 @@
   "110": {
     "nombre": "Internazionale",
     "pais": "Italy"
+  },
+  "83": {
+    "nombre": "Barcelona",
+    "pais": "Spain"
+  },
+  "142": {
+    "nombre": "Feyenoord Rotterdam",
+    "pais": "Netherlands"
+  },
+  "134": {
+    "nombre": "VfB Stuttgart",
+    "pais": "Germany"
+  },
+  "510": {
+    "nombre": "Viking FK",
+    "pais": "Norway"
+  },
+  "364": {
+    "nombre": "Liverpool",
+    "pais": "USA"
+  },
+  "1068": {
+    "nombre": "Atlético Madrid",
+    "pais": "Spain"
+  },
+  "114": {
+    "nombre": "Napoli",
+    "pais": null
+  },
+  "359": {
+    "nombre": "Arsenal",
+    "pais": "England"
+  },
+  "160": {
+    "nombre": "Paris Saint-Germain",
+    "pais": "Sweden"
+  },
+  "521": {
+    "nombre": "Slovan Bratislava",
+    "pais": null
+  },
+  "2250": {
+    "nombre": "Sporting CP",
+    "pais": "Portugal"
+  },
+  "432": {
+    "nombre": "Galatasaray",
+    "pais": "Austria"
   }
 }
