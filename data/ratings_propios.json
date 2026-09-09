@@ -1648,25 +1648,25 @@
       "nombre": "NEC Nijmegen",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1332.49,
-      "rd": 281.31,
+      "rating": 1453.36,
+      "rd": 261.49,
       "vol": 0.06,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-09"
     },
     "espn:153": {
       "nombre": "FC Utrecht",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1422.21,
-      "rd": 251.63,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1436.98,
+      "rd": 227.08,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-09"
     },
     "espn:140": {
       "nombre": "AZ Alkmaar",
@@ -1684,13 +1684,13 @@
       "nombre": "Excelsior",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1794.54,
-      "rd": 247.08,
+      "rating": 1705.63,
+      "rd": 233.69,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-09"
     },
     "espn:148": {
       "nombre": "PSV Eindhoven",
@@ -2656,13 +2656,13 @@
       "nombre": "Go Ahead Eagles",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1470.18,
+      "rd": 276.69,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-09"
     },
     "espn:139": {
       "nombre": "Ajax Amsterdam",
