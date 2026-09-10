@@ -4967,6 +4967,54 @@
       "partidos_bootstrap": 0,
       "partidos_reales": 1,
       "ultima_actualizacion": "2026-09-10"
+    },
+    "espn:493": {
+      "nombre": "Shakhtar Donetsk",
+      "pais": "Hungary",
+      "liga": "UEFA Champions League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:2980": {
+      "nombre": "Bodo/Glimt",
+      "pais": "Norway",
+      "liga": "UEFA Champions League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:21922": {
+      "nombre": "Sabah FK",
+      "pais": null,
+      "liga": "UEFA Champions League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:494": {
+      "nombre": "Slavia Prague",
+      "pais": null,
+      "liga": "UEFA Champions League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
     }
   }
 }

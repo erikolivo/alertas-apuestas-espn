@@ -362,5 +362,29 @@
   "432": {
     "nombre": "Galatasaray",
     "pais": "Austria"
+  },
+  "104": {
+    "nombre": "AS Roma",
+    "pais": "Italy"
+  },
+  "493": {
+    "nombre": "Shakhtar Donetsk",
+    "pais": "Hungary"
+  },
+  "2980": {
+    "nombre": "Bodo/Glimt",
+    "pais": "Norway"
+  },
+  "360": {
+    "nombre": "Manchester United",
+    "pais": "England"
+  },
+  "21922": {
+    "nombre": "Sabah FK",
+    "pais": null
+  },
+  "494": {
+    "nombre": "Slavia Prague",
+    "pais": null
   }
 }
