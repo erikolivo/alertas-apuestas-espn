@@ -424,13 +424,13 @@
       "nombre": "Vancouver Whitecaps",
       "pais": "Canada",
       "liga": "Leagues Cup",
-      "rating": 1570.17,
-      "rd": 230.74,
+      "rating": 1644.64,
+      "rd": 211.36,
       "vol": 0.059999,
-      "partidos_jugados": 3,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:3445": {
       "nombre": "Fluminense",
@@ -724,13 +724,13 @@
       "nombre": "Palmeiras",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1376.22,
-      "rd": 253.53,
+      "rating": 1501.05,
+      "rd": 229.19,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-16"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:2671": {
       "nombre": "Cerro Porteño",
@@ -976,13 +976,13 @@
       "nombre": "Liga de Quito",
       "pais": null,
       "liga": "CONMEBOL Libertadores",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1277.67,
+      "rd": 279.33,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:17": {
       "nombre": "Rosario Central",
@@ -1132,13 +1132,13 @@
       "nombre": "Telstar",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1269.48,
-      "rd": 226.34,
-      "vol": 0.059998,
-      "partidos_jugados": 3,
+      "rating": 1238.65,
+      "rd": 213.79,
+      "vol": 0.059997,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-07"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:151": {
       "nombre": "Sparta Rotterdam",
@@ -2152,13 +2152,13 @@
       "nombre": "LA Galaxy",
       "pais": "USA",
       "liga": "Major League Soccer",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1354.78,
+      "rd": 273.1,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:184": {
       "nombre": "Colorado Rapids",
@@ -2620,13 +2620,13 @@
       "nombre": "FC Twente",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1662.31,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1706.81,
+      "rd": 263.15,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:2565": {
       "nombre": "PEC Zwolle",
@@ -2644,13 +2644,13 @@
       "nombre": "Feyenoord Rotterdam",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1623.78,
-      "rd": 253.53,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1559.0,
+      "rd": 223.79,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:3706": {
       "nombre": "Go Ahead Eagles",
@@ -2716,13 +2716,13 @@
       "nombre": "Moreirense",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1422.17,
+      "rd": 295.1,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:2994": {
       "nombre": "Braga",
@@ -3388,13 +3388,13 @@
       "nombre": "Benfica",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1809.07,
-      "rd": 234.69,
-      "vol": 0.059998,
-      "partidos_jugados": 3,
+      "rating": 1852.31,
+      "rd": 219.41,
+      "vol": 0.059997,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:11429": {
       "nombre": "Samsunspor",
@@ -4288,13 +4288,13 @@
       "nombre": "Barcelona",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1830.22,
-      "rd": 219.6,
-      "vol": 0.059997,
-      "partidos_jugados": 4,
+      "rating": 1881.58,
+      "rd": 200.89,
+      "vol": 0.059996,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-07"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:4057": {
       "nombre": "Frosinone",
@@ -4456,13 +4456,13 @@
       "nombre": "Paris Saint-Germain",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1383.36,
-      "rd": 286.93,
+      "rating": 1533.52,
+      "rd": 252.72,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-05"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-10"
     },
     "espn:1010": {
       "nombre": "OFI Crete",
@@ -4960,13 +4960,13 @@
       "nombre": "Slovan Bratislava",
       "pais": null,
       "liga": "UEFA Champions League",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1286.92,
+      "rd": 283.79,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-10"
     }
   }
 }
