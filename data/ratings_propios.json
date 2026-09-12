@@ -1552,13 +1552,13 @@
       "nombre": "Ceuta",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1337.69,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1248.29,
+      "rd": 250.02,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-12"
     },
     "espn:3842": {
       "nombre": "Cádiz",
@@ -1636,13 +1636,13 @@
       "nombre": "Willem II",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1423.17,
-      "rd": 253.45,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1477.32,
+      "rd": 228.91,
+      "vol": 0.059997,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-12"
     },
     "espn:147": {
       "nombre": "NEC Nijmegen",
@@ -1672,13 +1672,13 @@
       "nombre": "AZ Alkmaar",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1667.51,
-      "rd": 281.31,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1599.26,
+      "rd": 246.96,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-07"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-12"
     },
     "espn:2566": {
       "nombre": "Excelsior",
@@ -2524,13 +2524,13 @@
       "nombre": "Burgos",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1500.97,
-      "rd": 275.86,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1583.56,
+      "rd": 241.77,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-01"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-12"
     },
     "espn:8447": {
       "nombre": "Córdoba",
@@ -2908,25 +2908,25 @@
       "nombre": "Erzurum BB",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1332.49,
-      "rd": 281.31,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1279.29,
+      "rd": 254.19,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-22"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-12"
     },
     "espn:1895": {
       "nombre": "Besiktas",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1667.51,
-      "rd": 281.31,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1720.71,
+      "rd": 254.19,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-01"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-12"
     },
     "espn:20729": {
       "nombre": "Eyupspor",
@@ -4672,13 +4672,13 @@
       "nombre": "1. FC Union Berlin",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1278.09,
+      "rd": 279.76,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-12"
     },
     "espn:125": {
       "nombre": "Eintracht Frankfurt",
@@ -4888,13 +4888,13 @@
       "nombre": "Schalke 04",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1376.0,
-      "rd": 256.35,
+      "rating": 1503.14,
+      "rd": 231.27,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-12"
     },
     "espn:263": {
       "nombre": "Aberdeen",
