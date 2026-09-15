@@ -2692,13 +2692,13 @@
       "nombre": "Estoril",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1383.36,
-      "rd": 286.93,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1310.09,
+      "rd": 252.35,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-01"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-15"
     },
     "espn:15784": {
       "nombre": "Arouca",
@@ -2728,13 +2728,13 @@
       "nombre": "Braga",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1616.64,
-      "rd": 286.93,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1689.91,
+      "rd": 252.35,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-01"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-15"
     },
     "espn:3699": {
       "nombre": "Gil Vicente",
@@ -2956,13 +2956,13 @@
       "nombre": "Bahia",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1611.52,
+      "rd": 279.19,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-15"
     },
     "espn:6273": {
       "nombre": "Grêmio",
@@ -3436,13 +3436,13 @@
       "nombre": "Remo",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1324.26,
-      "rd": 223.22,
-      "vol": 0.059997,
-      "partidos_jugados": 3,
+      "rating": 1268.66,
+      "rd": 206.99,
+      "vol": 0.059996,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-07"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-15"
     },
     "espn:19685": {
       "nombre": "Estudiantes de Río Cuarto",
@@ -3772,13 +3772,13 @@
       "nombre": "Leeds United",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1500.0,
-      "rd": 290.32,
+      "rating": 1623.78,
+      "rd": 253.53,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-15"
     },
     "espn:337": {
       "nombre": "Brentford",
@@ -3856,13 +3856,13 @@
       "nombre": "Internazionale",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1662.31,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1750.54,
+      "rd": 256.35,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-15"
     },
     "espn:4007": {
       "nombre": "Monza",
@@ -3880,25 +3880,25 @@
       "nombre": "Udinese",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1383.36,
+      "rd": 286.93,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-15"
     },
     "espn:2572": {
       "nombre": "Como",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1598.44,
-      "rd": 291.87,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1700.71,
+      "rd": 255.64,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-11"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-15"
     },
     "espn:3263": {
       "nombre": "Genoa",
@@ -3928,13 +3928,13 @@
       "nombre": "Parma",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1364.91,
+      "rd": 283.67,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-15"
     },
     "espn:2925": {
       "nombre": "Cagliari",
@@ -4264,13 +4264,13 @@
       "nombre": "Newcastle United",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1332.49,
+      "rd": 281.31,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-15"
     },
     "espn:364": {
       "nombre": "Liverpool",
