@@ -386,5 +386,45 @@
   "494": {
     "nombre": "Slavia Prague",
     "pais": null
+  },
+  "20024": {
+    "nombre": "Ararat-Armenia",
+    "pais": null
+  },
+  "433": {
+    "nombre": "Sparta Prague",
+    "pais": null
+  },
+  "617": {
+    "nombre": "Omonia Nicosia",
+    "pais": "Cyprus"
+  },
+  "85": {
+    "nombre": "Celta Vigo",
+    "pais": "Spain"
+  },
+  "3362": {
+    "nombre": "NK Celje",
+    "pais": "Slovenia"
+  },
+  "13083": {
+    "nombre": "Hapoel Be'er",
+    "pais": "Israel"
+  },
+  "597": {
+    "nombre": "Dinamo Zagreb",
+    "pais": null
+  },
+  "11505": {
+    "nombre": "Jagiellonia Bialystok",
+    "pais": null
+  },
+  "3746": {
+    "nombre": "SK Sturm Graz",
+    "pais": "Austria"
+  },
+  "169": {
+    "nombre": "Stade Rennais",
+    "pais": "France"
   }
 }

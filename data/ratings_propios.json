@@ -5015,6 +5015,102 @@
       "partidos_bootstrap": 0,
       "partidos_reales": 0,
       "ultima_actualizacion": null
+    },
+    "espn:20024": {
+      "nombre": "Ararat-Armenia",
+      "pais": null,
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:433": {
+      "nombre": "Sparta Prague",
+      "pais": null,
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:617": {
+      "nombre": "Omonia Nicosia",
+      "pais": "Cyprus",
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:3362": {
+      "nombre": "NK Celje",
+      "pais": "Slovenia",
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:13083": {
+      "nombre": "Hapoel Be'er",
+      "pais": "Israel",
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:597": {
+      "nombre": "Dinamo Zagreb",
+      "pais": null,
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:11505": {
+      "nombre": "Jagiellonia Bialystok",
+      "pais": null,
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:3746": {
+      "nombre": "SK Sturm Graz",
+      "pais": "Austria",
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
     }
   }
 }
