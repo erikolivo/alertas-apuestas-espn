@@ -628,13 +628,13 @@
       "nombre": "Toluca",
       "pais": "Mexico",
       "liga": "Leagues Cup",
-      "rating": 1666.28,
-      "rd": 233.49,
-      "vol": 0.059999,
-      "partidos_jugados": 3,
+      "rating": 1727.66,
+      "rd": 214.87,
+      "vol": 0.059998,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-16"
     },
     "espn:185": {
       "nombre": "FC Dallas",
@@ -664,13 +664,13 @@
       "nombre": "Puebla",
       "pais": "Mexico",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1385.44,
+      "rd": 279.67,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-16"
     },
     "espn:18966": {
       "nombre": "LAFC",
@@ -1336,13 +1336,13 @@
       "nombre": "Millwall",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1284.61,
-      "rd": 274.12,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1330.63,
+      "rd": 246.74,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-03"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-16"
     },
     "espn:372": {
       "nombre": "Charlton Athletic",
@@ -1372,13 +1372,13 @@
       "nombre": "Middlesbrough",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1420.86,
+      "rd": 288.99,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-16"
     },
     "espn:314": {
       "nombre": "Lincoln City",
@@ -1636,13 +1636,13 @@
       "nombre": "Willem II",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1477.32,
-      "rd": 228.91,
-      "vol": 0.059997,
-      "partidos_jugados": 3,
+      "rating": 1415.63,
+      "rd": 204.88,
+      "vol": 0.059996,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-12"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-16"
     },
     "espn:147": {
       "nombre": "NEC Nijmegen",
@@ -2668,13 +2668,13 @@
       "nombre": "Ajax Amsterdam",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1645.5,
-      "rd": 219.78,
-      "vol": 0.059999,
-      "partidos_jugados": 3,
+      "rating": 1703.17,
+      "rd": 198.71,
+      "vol": 0.059998,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-16"
     },
     "espn:146": {
       "nombre": "Heerenveen",
@@ -3316,13 +3316,13 @@
       "nombre": "Elche",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1315.27,
-      "rd": 206.77,
-      "vol": 0.059997,
-      "partidos_jugados": 4,
+      "rating": 1283.89,
+      "rd": 193.97,
+      "vol": 0.059996,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-09-16"
     },
     "espn:3788": {
       "nombre": "Sporting Gijón",
@@ -3844,13 +3844,13 @@
       "nombre": "Real Madrid",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1641.16,
-      "rd": 218.84,
-      "vol": 0.060001,
-      "partidos_jugados": 3,
+      "rating": 1675.54,
+      "rd": 203.54,
+      "vol": 0.06,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-16"
     },
     "espn:110": {
       "nombre": "Internazionale",
