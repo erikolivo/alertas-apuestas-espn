@@ -5111,6 +5111,90 @@
       "partidos_bootstrap": 0,
       "partidos_reales": 0,
       "ultima_actualizacion": null
+    },
+    "espn:490": {
+      "nombre": "Levski Sofia",
+      "pais": null,
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:2790": {
+      "nombre": "RB Salzburg",
+      "pais": "Austria",
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:622": {
+      "nombre": "Ferencvaros",
+      "pais": "Hungary",
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:2990": {
+      "nombre": "Lech Poznan",
+      "pais": null,
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:987": {
+      "nombre": "Lillestrom",
+      "pais": "Norway",
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:21615": {
+      "nombre": "Torreense",
+      "pais": null,
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
+    },
+    "espn:11706": {
+      "nombre": "Viktoria Plzen",
+      "pais": null,
+      "liga": "UEFA Europa League",
+      "rating": 1500.0,
+      "rd": 350.0,
+      "vol": 0.06,
+      "partidos_jugados": 0,
+      "partidos_bootstrap": 0,
+      "partidos_reales": 0,
+      "ultima_actualizacion": null
     }
   }
 }

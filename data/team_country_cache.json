@@ -426,5 +426,77 @@
   "169": {
     "nombre": "Stade Rennais",
     "pais": "France"
+  },
+  "490": {
+    "nombre": "Levski Sofia",
+    "pais": null
+  },
+  "2790": {
+    "nombre": "RB Salzburg",
+    "pais": "Austria"
+  },
+  "1010": {
+    "nombre": "OFI Crete",
+    "pais": "Greece"
+  },
+  "7911": {
+    "nombre": "TSG Hoffenheim",
+    "pais": "Germany"
+  },
+  "1895": {
+    "nombre": "Besiktas",
+    "pais": "Türkiye"
+  },
+  "176": {
+    "nombre": "Marseille",
+    "pais": "France"
+  },
+  "256": {
+    "nombre": "Celtic",
+    "pais": "Scotland"
+  },
+  "622": {
+    "nombre": "Ferencvaros",
+    "pais": "Hungary"
+  },
+  "384": {
+    "nombre": "Crystal Palace",
+    "pais": "England"
+  },
+  "2990": {
+    "nombre": "Lech Poznan",
+    "pais": null
+  },
+  "111": {
+    "nombre": "Juventus",
+    "pais": "Italy"
+  },
+  "147": {
+    "nombre": "NEC Nijmegen",
+    "pais": "Netherlands"
+  },
+  "987": {
+    "nombre": "Lillestrom",
+    "pais": "Norway"
+  },
+  "21615": {
+    "nombre": "Torreense",
+    "pais": null
+  },
+  "89": {
+    "nombre": "Real Sociedad",
+    "pais": "Spain"
+  },
+  "349": {
+    "nombre": "AFC Bournemouth",
+    "pais": "England"
+  },
+  "11706": {
+    "nombre": "Viktoria Plzen",
+    "pais": null
+  },
+  "5807": {
+    "nombre": "Union St.-Gilloise",
+    "pais": "Belgium"
   }
 }
