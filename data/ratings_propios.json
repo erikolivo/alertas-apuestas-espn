@@ -1516,13 +1516,13 @@
       "nombre": "Sevilla",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1753.93,
+      "rd": 276.76,
+      "vol": 0.060001,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-17"
     },
     "espn:101": {
       "nombre": "Rayo Vallecano",
@@ -2452,13 +2452,13 @@
       "nombre": "Racing Santander",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1549.14,
-      "rd": 223.21,
-      "vol": 0.06,
-      "partidos_jugados": 3,
+      "rating": 1517.39,
+      "rd": 208.11,
+      "vol": 0.059999,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-17"
     },
     "espn:102": {
       "nombre": "Villarreal",
@@ -3304,13 +3304,13 @@
       "nombre": "Deportivo",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1668.55,
-      "rd": 209.55,
-      "vol": 0.059997,
-      "partidos_jugados": 4,
+      "rating": 1571.48,
+      "rd": 195.89,
+      "vol": 0.059998,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-09-17"
     },
     "espn:3751": {
       "nombre": "Elche",
@@ -3388,13 +3388,13 @@
       "nombre": "Benfica",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1885.53,
-      "rd": 206.67,
-      "vol": 0.059996,
-      "partidos_jugados": 5,
+      "rating": 1913.33,
+      "rd": 197.69,
+      "vol": 0.059995,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-09-17"
     },
     "espn:11429": {
       "nombre": "Samsunspor",
@@ -3580,13 +3580,13 @@
       "nombre": "Atlético Madrid",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1668.94,
+      "rd": 275.86,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-17"
     },
     "espn:99": {
       "nombre": "Málaga",
@@ -4120,13 +4120,13 @@
       "nombre": "Olympiacos",
       "pais": "Greece",
       "liga": "Super League 1",
-      "rating": 1484.31,
-      "rd": 223.8,
+      "rating": 1568.28,
+      "rd": 205.73,
       "vol": 0.059999,
-      "partidos_jugados": 3,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-17"
     },
     "espn:6790": {
       "nombre": "Atromitos",
@@ -4288,13 +4288,13 @@
       "nombre": "Barcelona",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1903.49,
-      "rd": 192.77,
-      "vol": 0.059995,
-      "partidos_jugados": 6,
+      "rating": 1928.59,
+      "rd": 183.23,
+      "vol": 0.059994,
+      "partidos_jugados": 7,
       "partidos_bootstrap": 0,
-      "partidos_reales": 6,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 7,
+      "ultima_actualizacion": "2026-09-17"
     },
     "espn:4057": {
       "nombre": "Frosinone",
@@ -4384,13 +4384,13 @@
       "nombre": "AC Milan",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1440.1,
+      "rd": 303.38,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-17"
     },
     "espn:7868": {
       "nombre": "Angers",
@@ -4588,13 +4588,13 @@
       "nombre": "Osasuna",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1497.45,
-      "rd": 256.35,
+      "rating": 1396.06,
+      "rd": 230.02,
       "vol": 0.06,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-17"
     },
     "espn:107": {
       "nombre": "Bologna",
@@ -5092,13 +5092,13 @@
       "nombre": "Jagiellonia Bialystok",
       "pais": null,
       "liga": "UEFA Europa League",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1321.83,
+      "rd": 270.62,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-17"
     },
     "espn:3746": {
       "nombre": "SK Sturm Graz",
