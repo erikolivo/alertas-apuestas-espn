@@ -1324,13 +1324,13 @@
       "nombre": "Bristol City",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1614.74,
+      "rd": 275.79,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-19"
     },
     "espn:391": {
       "nombre": "Millwall",
@@ -2404,13 +2404,13 @@
       "nombre": "Watford",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1336.96,
-      "rd": 206.08,
-      "vol": 0.059997,
-      "partidos_jugados": 4,
+      "rating": 1287.05,
+      "rd": 192.98,
+      "vol": 0.059996,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-09-19"
     },
     "espn:376": {
       "nombre": "Southampton",
@@ -2476,13 +2476,13 @@
       "nombre": "Espanyol",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1731.88,
-      "rd": 286.93,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1423.29,
+      "rd": 264.49,
+      "vol": 0.060005,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-19"
     },
     "espn:1538": {
       "nombre": "Levante",
@@ -2608,13 +2608,13 @@
       "nombre": "FC Groningen",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1632.51,
+      "rd": 274.87,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-19"
     },
     "espn:152": {
       "nombre": "FC Twente",
@@ -2632,13 +2632,13 @@
       "nombre": "PEC Zwolle",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1392.13,
-      "rd": 229.92,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1323.86,
+      "rd": 211.14,
+      "vol": 0.059997,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-19"
     },
     "espn:142": {
       "nombre": "Feyenoord Rotterdam",
@@ -3316,13 +3316,13 @@
       "nombre": "Elche",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1283.89,
-      "rd": 193.97,
-      "vol": 0.059996,
-      "partidos_jugados": 5,
+      "rating": 1413.72,
+      "rd": 187.18,
+      "vol": 0.06,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-09-16"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-09-19"
     },
     "espn:3788": {
       "nombre": "Sporting Gijón",
@@ -4648,13 +4648,13 @@
       "nombre": "Bayern Munich",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1662.33,
-      "rd": 227.08,
-      "vol": 0.059999,
-      "partidos_jugados": 3,
+      "rating": 1693.96,
+      "rd": 213.93,
+      "vol": 0.059998,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-19"
     },
     "espn:134": {
       "nombre": "VfB Stuttgart",
@@ -4672,13 +4672,13 @@
       "nombre": "1. FC Union Berlin",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1278.09,
-      "rd": 279.76,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1234.94,
+      "rd": 254.62,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-12"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-19"
     },
     "espn:125": {
       "nombre": "Eintracht Frankfurt",
