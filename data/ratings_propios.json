@@ -364,13 +364,13 @@
       "nombre": "Minnesota United FC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1662.31,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1432.06,
+      "rd": 258.5,
+      "vol": 0.060002,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-12"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:226": {
       "nombre": "Atlante",
@@ -388,13 +388,13 @@
       "nombre": "Real Salt Lake",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1346.96,
+      "rd": 267.02,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:17851": {
       "nombre": "FC Juarez",
@@ -424,13 +424,13 @@
       "nombre": "Vancouver Whitecaps",
       "pais": "Canada",
       "liga": "Leagues Cup",
-      "rating": 1549.6,
-      "rd": 197.01,
+      "rating": 1608.93,
+      "rd": 184.53,
       "vol": 0.06,
-      "partidos_jugados": 5,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:3445": {
       "nombre": "Fluminense",
@@ -544,13 +544,13 @@
       "nombre": "São Paulo",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1490.76,
-      "rd": 199.69,
-      "vol": 0.059998,
-      "partidos_jugados": 4,
+      "rating": 1588.42,
+      "rd": 183.75,
+      "vol": 0.059999,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:20232": {
       "nombre": "Inter Miami CF",
@@ -808,13 +808,13 @@
       "nombre": "Atlético-MG",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1439.39,
+      "rd": 286.09,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:7767": {
       "nombre": "Tigre",
@@ -1036,13 +1036,13 @@
       "nombre": "Vasco da Gama",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1668.19,
+      "rd": 279.88,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:2675": {
       "nombre": "Club Olimpia",
@@ -1156,13 +1156,13 @@
       "nombre": "Sporting CP",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1852.31,
-      "rd": 219.41,
+      "rating": 1803.17,
+      "rd": 207.88,
       "vol": 0.059997,
-      "partidos_jugados": 4,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:5309": {
       "nombre": "Vitória de Guimaraes",
@@ -1336,25 +1336,25 @@
       "nombre": "Millwall",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1330.63,
-      "rd": 246.74,
+      "rating": 1415.81,
+      "rd": 227.78,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-16"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:372": {
       "nombre": "Charlton Athletic",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1329.92,
+      "rd": 275.4,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:374": {
       "nombre": "Derby County",
@@ -1444,13 +1444,13 @@
       "nombre": "Stoke City",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1668.19,
+      "rd": 279.88,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:318": {
       "nombre": "Swansea City",
@@ -1468,13 +1468,13 @@
       "nombre": "Sheffield United",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 281.31,
+      "rating": 1382.06,
+      "rd": 247.48,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-30"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:392": {
       "nombre": "Birmingham City",
@@ -1516,13 +1516,13 @@
       "nombre": "Sevilla",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1753.93,
-      "rd": 276.76,
-      "vol": 0.060001,
-      "partidos_jugados": 1,
+      "rating": 1673.12,
+      "rd": 234.46,
+      "vol": 0.06,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-17"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:101": {
       "nombre": "Rayo Vallecano",
@@ -1684,13 +1684,13 @@
       "nombre": "Excelsior",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1540.76,
-      "rd": 213.0,
-      "vol": 0.060001,
-      "partidos_jugados": 4,
+      "rating": 1574.57,
+      "rd": 192.17,
+      "vol": 0.06,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:148": {
       "nombre": "PSV Eindhoven",
@@ -1804,13 +1804,13 @@
       "nombre": "Zulte-Waregem",
       "pais": "Belgium",
       "liga": "Jupiler Pro League",
-      "rating": 1500.0,
-      "rd": 290.32,
+      "rating": 1368.13,
+      "rd": 243.73,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:5786": {
       "nombre": "KV Kortrijk",
@@ -1996,13 +1996,13 @@
       "nombre": "Coritiba",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1500.0,
-      "rd": 281.31,
+      "rating": 1382.06,
+      "rd": 247.48,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-16"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:9739": {
       "nombre": "Aldosivi",
@@ -2152,13 +2152,13 @@
       "nombre": "LA Galaxy",
       "pais": "USA",
       "liga": "Major League Soccer",
-      "rating": 1354.78,
-      "rd": 273.1,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1557.7,
+      "rd": 246.92,
+      "vol": 0.060001,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-10"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:184": {
       "nombre": "Colorado Rapids",
@@ -2416,13 +2416,13 @@
       "nombre": "Southampton",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1338.91,
+      "rd": 265.85,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:379": {
       "nombre": "Burnley",
@@ -2440,13 +2440,13 @@
       "nombre": "West Ham United",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1694.26,
-      "rd": 219.77,
+      "rating": 1628.78,
+      "rd": 206.56,
       "vol": 0.059998,
-      "partidos_jugados": 3,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:87": {
       "nombre": "Racing Santander",
@@ -2668,13 +2668,13 @@
       "nombre": "Ajax Amsterdam",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1703.17,
-      "rd": 198.71,
-      "vol": 0.059998,
-      "partidos_jugados": 4,
+      "rating": 1674.0,
+      "rd": 182.07,
+      "vol": 0.059997,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-16"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:146": {
       "nombre": "Heerenveen",
@@ -2704,13 +2704,13 @@
       "nombre": "Arouca",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1644.49,
+      "rd": 299.57,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:3696": {
       "nombre": "Moreirense",
@@ -2788,13 +2788,13 @@
       "nombre": "Anderlecht",
       "pais": "Belgium",
       "liga": "Jupiler Pro League",
-      "rating": 1502.55,
-      "rd": 256.35,
+      "rating": 1609.57,
+      "rd": 225.46,
       "vol": 0.06,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-04"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:131235": {
       "nombre": "RAAL La Louvière",
@@ -2944,13 +2944,13 @@
       "nombre": "Chapecoense",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1332.49,
-      "rd": 281.31,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1370.1,
+      "rd": 250.26,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:9967": {
       "nombre": "Bahia",
@@ -3280,25 +3280,25 @@
       "nombre": "Cardiff City",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 253.53,
+      "rating": 1600.09,
+      "rd": 227.98,
       "vol": 0.059998,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-30"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:352": {
       "nombre": "Wrexham",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1529.1,
-      "rd": 193.02,
+      "rating": 1588.78,
+      "rd": 181.19,
       "vol": 0.059997,
-      "partidos_jugados": 5,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:90": {
       "nombre": "Deportivo",
@@ -3424,13 +3424,13 @@
       "nombre": "Internacional",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1623.78,
-      "rd": 253.53,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1470.84,
+      "rd": 218.93,
+      "vol": 0.06,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:4936": {
       "nombre": "Remo",
@@ -3604,13 +3604,13 @@
       "nombre": "Arsenal",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1841.31,
-      "rd": 246.07,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1653.04,
+      "rd": 226.83,
+      "vol": 0.060002,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:388": {
       "nombre": "Coventry City",
@@ -3664,13 +3664,13 @@
       "nombre": "Strasbourg",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1383.36,
+      "rd": 286.93,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:10309": {
       "nombre": "Jaguares de Córdoba",
@@ -3976,13 +3976,13 @@
       "nombre": "Le Mans",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1337.69,
-      "rd": 247.46,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1465.24,
+      "rd": 225.48,
+      "vol": 0.06,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:6997": {
       "nombre": "Brest",
@@ -4012,13 +4012,13 @@
       "nombre": "Lorient",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1258.05,
+      "rd": 281.2,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:179": {
       "nombre": "Toulouse",
@@ -4060,13 +4060,13 @@
       "nombre": "Paris FC",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1662.31,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1750.54,
+      "rd": 256.35,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:887": {
       "nombre": "AEK Athens",
@@ -4132,13 +4132,13 @@
       "nombre": "Atromitos",
       "pais": "Greece",
       "liga": "Super League 1",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1225.44,
+      "rd": 281.09,
+      "vol": 0.060001,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:257": {
       "nombre": "Rangers",
@@ -4216,13 +4216,13 @@
       "nombre": "Brighton & Hove Albion",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1502.55,
-      "rd": 256.35,
-      "vol": 0.06,
-      "partidos_jugados": 2,
+      "rating": 1707.82,
+      "rd": 234.47,
+      "vol": 0.060003,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:362": {
       "nombre": "Aston Villa",
@@ -4288,13 +4288,13 @@
       "nombre": "Barcelona",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1928.59,
-      "rd": 183.23,
-      "vol": 0.059994,
-      "partidos_jugados": 7,
+      "rating": 1969.54,
+      "rd": 172.11,
+      "vol": 0.059993,
+      "partidos_jugados": 8,
       "partidos_bootstrap": 0,
-      "partidos_reales": 7,
-      "ultima_actualizacion": "2026-09-17"
+      "partidos_reales": 8,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:4057": {
       "nombre": "Frosinone",
@@ -4504,13 +4504,13 @@
       "nombre": "Kifisia",
       "pais": "Greece",
       "liga": "Super League 1",
-      "rating": 1293.07,
-      "rd": 212.87,
-      "vol": 0.059998,
-      "partidos_jugados": 4,
+      "rating": 1398.46,
+      "rd": 199.23,
+      "vol": 0.059999,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:605": {
       "nombre": "PAOK",
@@ -4696,13 +4696,13 @@
       "nombre": "FC Cologne",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1202.56,
+      "rd": 300.15,
+      "vol": 0.060002,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:7911": {
       "nombre": "TSG Hoffenheim",
@@ -4804,13 +4804,13 @@
       "nombre": "Hamburg SV",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1187.82,
-      "rd": 296.35,
-      "vol": 0.060002,
-      "partidos_jugados": 1,
+      "rating": 1399.24,
+      "rd": 267.19,
+      "vol": 0.060003,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:254": {
       "nombre": "Falkirk",
@@ -4864,25 +4864,25 @@
       "nombre": "Werder Bremen",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1502.55,
-      "rd": 256.35,
-      "vol": 0.06,
-      "partidos_jugados": 2,
+      "rating": 1648.74,
+      "rd": 228.24,
+      "vol": 0.060001,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:3841": {
       "nombre": "FC Augsburg",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1662.31,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1477.88,
+      "rd": 248.07,
+      "vol": 0.060001,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-20"
     },
     "espn:133": {
       "nombre": "Schalke 04",
