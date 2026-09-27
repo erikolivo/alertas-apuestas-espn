@@ -364,13 +364,13 @@
       "nombre": "Minnesota United FC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1432.06,
-      "rd": 258.5,
-      "vol": 0.060002,
-      "partidos_jugados": 2,
+      "rating": 1361.71,
+      "rd": 230.26,
+      "vol": 0.060001,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-20"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-27"
     },
     "espn:226": {
       "nombre": "Atlante",
@@ -424,13 +424,13 @@
       "nombre": "Vancouver Whitecaps",
       "pais": "Canada",
       "liga": "Leagues Cup",
-      "rating": 1608.93,
-      "rd": 184.53,
-      "vol": 0.06,
-      "partidos_jugados": 6,
+      "rating": 1596.8,
+      "rd": 174.54,
+      "vol": 0.059999,
+      "partidos_jugados": 7,
       "partidos_bootstrap": 0,
-      "partidos_reales": 6,
-      "ultima_actualizacion": "2026-09-20"
+      "partidos_reales": 7,
+      "ultima_actualizacion": "2026-09-27"
     },
     "espn:3445": {
       "nombre": "Fluminense",
@@ -580,13 +580,13 @@
       "nombre": "Orlando City SC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1577.79,
-      "rd": 251.63,
+      "rating": 1463.72,
+      "rd": 227.08,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-27"
     },
     "espn:15720": {
       "nombre": "Atlético de San Luis",
@@ -616,13 +616,13 @@
       "nombre": "Nashville SC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1609.24,
+      "rd": 287.73,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-27"
     },
     "espn:223": {
       "nombre": "Toluca",
@@ -700,13 +700,13 @@
       "nombre": "Seattle Sounders FC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1619.03,
-      "rd": 283.16,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1700.12,
+      "rd": 245.15,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-24"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-27"
     },
     "espn:219": {
       "nombre": "Guadalajara",
@@ -844,13 +844,13 @@
       "nombre": "Philadelphia Union",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1701.99,
+      "rd": 276.69,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-27"
     },
     "espn:225": {
       "nombre": "Santos",
@@ -2104,25 +2104,25 @@
       "nombre": "D.C. United",
       "pais": "USA",
       "liga": "Major League Soccer",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1547.21,
+      "rd": 268.28,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-27"
     },
     "espn:7318": {
       "nombre": "Toronto FC",
       "pais": "USA",
       "liga": "Major League Soccer",
-      "rating": 1310.76,
-      "rd": 281.52,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1231.71,
+      "rd": 251.13,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-09-27"
     },
     "espn:189": {
       "nombre": "New England Revolution",
