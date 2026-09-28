@@ -1588,13 +1588,13 @@
       "nombre": "Real Oviedo",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1700.71,
-      "rd": 255.64,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1766.53,
+      "rd": 232.61,
+      "vol": 0.059997,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-09-28"
     },
     "espn:3747": {
       "nombre": "Granada",
@@ -3328,13 +3328,13 @@
       "nombre": "Sporting Gijón",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1394.46,
+      "rd": 285.51,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-09-28"
     },
     "espn:11487": {
       "nombre": "CD Sabadell",
