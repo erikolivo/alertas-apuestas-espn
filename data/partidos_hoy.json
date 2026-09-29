@@ -1,42 +1,4 @@
 {
-  "fecha": "2026-09-28",
-  "partidos": [
-    {
-      "partido": "Leganés vs Castellón",
-      "local": "Leganés",
-      "visitante": "Castellón",
-      "favorito": "Castellón",
-      "no_favorito": "Leganés",
-      "favorito_es_local": false,
-      "cuota_inicial": 1.42,
-      "cuota_no_favorito": 11.01,
-      "probabilidad_inicial": 70.5,
-      "lambda_local": 0.509,
-      "lambda_visitante": 1.896,
-      "goal_index_disponible": true,
-      "elo_local_estimado_goal_index": false,
-      "elo_visitante_estimado_goal_index": false,
-      "pais_verificado": true,
-      "metodo_pais": "local:liga_domestica/visitante:liga_domestica",
-      "metodo_emparejamiento": "local:sin_match/visitante:sin_match",
-      "rating_propio_partidos_local": 0,
-      "rating_propio_partidos_visitante": 1,
-      "rd_local": 350.0,
-      "rd_visitante": 290.32,
-      "verificado_cuota_real": false,
-      "discrepancia_cuota_real": false,
-      "favorito_solo_por_cuota_real": false,
-      "hora_inicio": "2026-09-28T18:30Z",
-      "fixture_id": "401883199",
-      "liga_slug": "esp.2",
-      "home_id": "17534",
-      "away_id": "4438",
-      "kickoff_utc": "2026-09-28T18:30Z",
-      "resultado_final": "0-2",
-      "acierto": true,
-      "historial_snapshots": [],
-      "alertas_enviadas": [],
-      "diferencia_maxima_alcanzada": 0
-    }
-  ]
+  "fecha": "2026-09-29",
+  "partidos": []
 }
