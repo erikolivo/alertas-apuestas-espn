@@ -1,4 +1,42 @@
 {
-  "fecha": "2026-09-30",
-  "partidos": []
+  "fecha": "2026-10-01",
+  "partidos": [
+    {
+      "partido": "Seattle Sounders FC vs Sporting Kansas City",
+      "local": "Seattle Sounders FC",
+      "visitante": "Sporting Kansas City",
+      "favorito": "Seattle Sounders FC",
+      "no_favorito": "Sporting Kansas City",
+      "favorito_es_local": true,
+      "cuota_inicial": 1.52,
+      "cuota_no_favorito": 7.64,
+      "probabilidad_inicial": 65.9,
+      "lambda_local": 1.965,
+      "lambda_visitante": 0.735,
+      "goal_index_disponible": false,
+      "elo_local_estimado_goal_index": false,
+      "elo_visitante_estimado_goal_index": false,
+      "pais_verificado": true,
+      "metodo_pais": "local:liga_domestica/visitante:liga_domestica",
+      "metodo_emparejamiento": "local:sin_match/visitante:sin_match",
+      "rating_propio_partidos_local": 2,
+      "rating_propio_partidos_visitante": 2,
+      "rd_local": 245.15,
+      "rd_visitante": 242.26,
+      "verificado_cuota_real": false,
+      "discrepancia_cuota_real": false,
+      "favorito_solo_por_cuota_real": false,
+      "hora_inicio": "2026-10-02T01:30Z",
+      "fixture_id": "761798",
+      "liga_slug": "usa.1",
+      "home_id": "9726",
+      "away_id": "186",
+      "kickoff_utc": "2026-10-02T01:30Z",
+      "resultado_final": null,
+      "acierto": null,
+      "historial_snapshots": [],
+      "alertas_enviadas": [],
+      "diferencia_maxima_alcanzada": 0
+    }
+  ]
 }
