@@ -700,13 +700,13 @@
       "nombre": "Seattle Sounders FC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1700.12,
-      "rd": 245.15,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1723.55,
+      "rd": 233.19,
+      "vol": 0.059997,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-27"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-02"
     },
     "espn:219": {
       "nombre": "Guadalajara",
@@ -2176,13 +2176,13 @@
       "nombre": "Sporting Kansas City",
       "pais": "USA",
       "liga": "Major League Soccer",
-      "rating": 1204.75,
-      "rd": 242.26,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1181.7,
+      "rd": 230.71,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-06"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-02"
     },
     "espn:191": {
       "nombre": "San Jose Earthquakes",
