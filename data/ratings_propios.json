@@ -1120,13 +1120,13 @@
       "nombre": "Castellón",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1750.54,
-      "rd": 256.35,
+      "rating": 1642.39,
+      "rd": 243.07,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-29"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-05"
     },
     "espn:3735": {
       "nombre": "Telstar",
@@ -1228,13 +1228,13 @@
       "nombre": "Racing Club",
       "pais": "Argentina",
       "liga": "Liga Profesional Argentina",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1629.7,
+      "rd": 283.79,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-05"
     },
     "espn:5362": {
       "nombre": "Universidad de Concepción",
@@ -1552,13 +1552,13 @@
       "nombre": "Ceuta",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1248.29,
-      "rd": 250.02,
+      "rating": 1350.22,
+      "rd": 237.69,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-12"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-05"
     },
     "espn:3842": {
       "nombre": "Cádiz",
@@ -1624,13 +1624,13 @@
       "nombre": "Real Valladolid",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1364.91,
-      "rd": 283.67,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1395.77,
+      "rd": 250.95,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-05"
     },
     "espn:156": {
       "nombre": "Willem II",
@@ -2572,13 +2572,13 @@
       "nombre": "Las Palmas",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1451.38,
+      "rd": 284.33,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-05"
     },
     "espn:2737": {
       "nombre": "Albacete",
@@ -3448,13 +3448,13 @@
       "nombre": "Estudiantes de Río Cuarto",
       "pais": "Argentina",
       "liga": "Liga Profesional Argentina",
-      "rating": 1383.36,
-      "rd": 286.93,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1287.54,
+      "rd": 252.72,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-21"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-05"
     },
     "espn:9785": {
       "nombre": "Atlético Tucumán",
