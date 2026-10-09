@@ -436,13 +436,13 @@
       "nombre": "Fluminense",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1675.57,
-      "rd": 207.48,
-      "vol": 0.059997,
-      "partidos_jugados": 4,
+      "rating": 1711.25,
+      "rd": 194.02,
+      "vol": 0.059996,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-09"
     },
     "espn:9744": {
       "nombre": "Independiente Rivadavia",
@@ -784,13 +784,13 @@
       "nombre": "Flamengo",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1738.76,
-      "rd": 209.33,
-      "vol": 0.059996,
-      "partidos_jugados": 4,
+      "rating": 1706.66,
+      "rd": 196.92,
+      "vol": 0.059995,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-21"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-09"
     },
     "espn:6079": {
       "nombre": "Red Bull Bragantino",
@@ -1012,13 +1012,13 @@
       "nombre": "Santos",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1600.25,
+      "rd": 284.36,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-09"
     },
     "espn:18439": {
       "nombre": "Macará",
@@ -1996,13 +1996,13 @@
       "nombre": "Coritiba",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1382.06,
-      "rd": 247.48,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1334.79,
+      "rd": 223.93,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-20"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-09"
     },
     "espn:9739": {
       "nombre": "Aldosivi",
