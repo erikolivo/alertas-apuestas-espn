@@ -1204,13 +1204,13 @@
       "nombre": "Galatasaray",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1755.98,
-      "rd": 212.23,
-      "vol": 0.059997,
-      "partidos_jugados": 4,
+      "rating": 1797.7,
+      "rd": 199.67,
+      "vol": 0.059996,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-10"
     },
     "espn:132334": {
       "nombre": "Çorum FK",
@@ -1432,13 +1432,13 @@
       "nombre": "Queens Park Rangers",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1553.86,
+      "rd": 272.9,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-10"
     },
     "espn:336": {
       "nombre": "Stoke City",
@@ -1696,13 +1696,13 @@
       "nombre": "PSV Eindhoven",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1705.99,
-      "rd": 185.92,
-      "vol": 0.059997,
-      "partidos_jugados": 5,
+      "rating": 1728.44,
+      "rd": 177.64,
+      "vol": 0.059996,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-09-21"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-10"
     },
     "espn:143": {
       "nombre": "Fortuna Sittard",
@@ -1888,13 +1888,13 @@
       "nombre": "Kasimpasa",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1410.67,
+      "rd": 286.74,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-10"
     },
     "espn:997": {
       "nombre": "Trabzonspor",
@@ -2440,13 +2440,13 @@
       "nombre": "West Ham United",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1628.78,
-      "rd": 206.56,
-      "vol": 0.059998,
-      "partidos_jugados": 4,
+      "rating": 1611.36,
+      "rd": 192.93,
+      "vol": 0.059997,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-20"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-10"
     },
     "espn:87": {
       "nombre": "Racing Santander",
@@ -2680,13 +2680,13 @@
       "nombre": "Heerenveen",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1339.7,
-      "rd": 220.13,
-      "vol": 0.059998,
-      "partidos_jugados": 3,
+      "rating": 1310.24,
+      "rd": 206.07,
+      "vol": 0.059997,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-10"
     },
     "espn:12216": {
       "nombre": "Estoril",
@@ -4792,13 +4792,13 @@
       "nombre": "Borussia Dortmund",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1559.86,
+      "rd": 277.51,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-10"
     },
     "espn:127": {
       "nombre": "Hamburg SV",
@@ -4864,13 +4864,13 @@
       "nombre": "Werder Bremen",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1648.74,
-      "rd": 228.24,
-      "vol": 0.060001,
-      "partidos_jugados": 3,
+      "rating": 1624.95,
+      "rd": 210.46,
+      "vol": 0.06,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-20"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-10"
     },
     "espn:3841": {
       "nombre": "FC Augsburg",
