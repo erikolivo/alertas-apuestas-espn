@@ -37,8 +37,8 @@
       "home_id": "306",
       "away_id": "368",
       "kickoff_utc": "2026-10-11T13:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-2",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -79,8 +79,8 @@
       "home_id": "89",
       "away_id": "90",
       "kickoff_utc": "2026-10-11T14:15Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "3-2",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -121,8 +121,8 @@
       "home_id": "2572",
       "away_id": "104",
       "kickoff_utc": "2026-10-11T10:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-0",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -163,8 +163,8 @@
       "home_id": "2502",
       "away_id": "180",
       "kickoff_utc": "2026-10-11T13:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-1",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -205,8 +205,8 @@
       "home_id": "169",
       "away_id": "172",
       "kickoff_utc": "2026-10-11T15:15Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "4-1",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -247,8 +247,8 @@
       "home_id": "153",
       "away_id": "156",
       "kickoff_utc": "2026-10-11T10:15Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "3-1",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -289,8 +289,8 @@
       "home_id": "2565",
       "away_id": "3736",
       "kickoff_utc": "2026-10-11T12:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-1",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -331,8 +331,8 @@
       "home_id": "1929",
       "away_id": "5309",
       "kickoff_utc": "2026-10-11T17:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-0",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -373,8 +373,8 @@
       "home_id": "5807",
       "away_id": "5579",
       "kickoff_utc": "2026-10-11T14:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-1",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -415,8 +415,8 @@
       "home_id": "1895",
       "away_id": "995",
       "kickoff_utc": "2026-10-11T16:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-1",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -457,8 +457,8 @@
       "home_id": "2575",
       "away_id": "5276",
       "kickoff_utc": "2026-10-11T14:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-0",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -499,8 +499,8 @@
       "home_id": "11553",
       "away_id": "20043",
       "kickoff_utc": "2026-10-11T16:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "3-2",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -541,8 +541,8 @@
       "home_id": "435",
       "away_id": "443",
       "kickoff_utc": "2026-10-11T18:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-0",
+      "acierto": true,
       "historial_snapshots": [
         {
           "minuto": "77'",
@@ -809,7 +809,8 @@
         {
           "tipo": "tarjeta_roja",
           "minuto": "77'",
-          "texto": "🟥 Tarjeta roja detectada."
+          "texto": "🟥 Tarjeta roja detectada.",
+          "acierto": null
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -850,8 +851,8 @@
       "home_id": "15720",
       "away_id": "225",
       "kickoff_utc": "2026-10-11T23:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-2",
+      "acierto": false,
       "historial_snapshots": [
         {
           "minuto": "3'",
@@ -2353,22 +2354,26 @@
         {
           "tipo": "ampliacion_marcador",
           "minuto": "33'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (82%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (82%).",
+          "acierto": false
         },
         {
           "tipo": "posible_victoria_favorito",
           "minuto": "43'",
-          "texto": "🟢 Posible victoria del favorito -- domina claramente (71%)."
+          "texto": "🟢 Posible victoria del favorito -- domina claramente (71%).",
+          "acierto": false
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "65'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (74%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (74%).",
+          "acierto": false
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "80'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (93%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (93%).",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -2404,8 +2409,8 @@
       "home_id": "384",
       "away_id": "393",
       "kickoff_utc": "2026-10-11T13:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "3-1",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -2446,8 +2451,8 @@
       "home_id": "364",
       "away_id": "382",
       "kickoff_utc": "2026-10-11T15:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-3",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -2488,8 +2493,8 @@
       "home_id": "3751",
       "away_id": "85",
       "kickoff_utc": "2026-10-11T12:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-0",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -2530,8 +2535,8 @@
       "home_id": "244",
       "away_id": "97",
       "kickoff_utc": "2026-10-11T16:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "5-2",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -2567,8 +2572,8 @@
       "home_id": "87",
       "away_id": "94",
       "kickoff_utc": "2026-10-11T19:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-2",
+      "acierto": false,
       "historial_snapshots": [
         {
           "minuto": "37'",
@@ -3615,22 +3620,26 @@
         {
           "tipo": "posible_victoria_favorito",
           "minuto": "42'",
-          "texto": "🟢 Posible victoria del favorito -- domina claramente (99%)."
+          "texto": "🟢 Posible victoria del favorito -- domina claramente (99%).",
+          "acierto": true
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "52'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (99%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (99%).",
+          "acierto": false
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "78'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (71%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (71%).",
+          "acierto": false
         },
         {
           "tipo": "gol_de_cierre",
           "minuto": "88'",
-          "texto": "⏰ Posible gol de cierre -- dominancia acumulada alta (86%) en el tramo final."
+          "texto": "⏰ Posible gol de cierre -- dominancia acumulada alta (86%) en el tramo final.",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -3666,8 +3675,8 @@
       "home_id": "6832",
       "away_id": "17534",
       "kickoff_utc": "2026-10-11T14:15Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "3-0",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -3708,8 +3717,8 @@
       "home_id": "122",
       "away_id": "268",
       "kickoff_utc": "2026-10-11T13:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-1",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -3745,8 +3754,8 @@
       "home_id": "170",
       "away_id": "176",
       "kickoff_utc": "2026-10-11T18:45Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-2",
+      "acierto": false,
       "historial_snapshots": [
         {
           "minuto": "45'",
@@ -4598,17 +4607,20 @@
         {
           "tipo": "posible_empate",
           "minuto": "62'",
-          "texto": "🟠 Posible empate -- el favorito domina (70%)."
+          "texto": "🟠 Posible empate -- el favorito domina (70%).",
+          "acierto": false
         },
         {
           "tipo": "gol_de_cierre",
           "minuto": "77'",
-          "texto": "⏰ Posible gol de cierre -- dominancia acumulada alta (100%) en el tramo final."
+          "texto": "⏰ Posible gol de cierre -- dominancia acumulada alta (100%) en el tramo final.",
+          "acierto": false
         },
         {
           "tipo": "posible_empate",
           "minuto": "90'+2'",
-          "texto": "🟠 Posible empate -- el favorito domina (79%)."
+          "texto": "🟠 Posible empate -- el favorito domina (79%).",
+          "acierto": null
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -4649,8 +4661,8 @@
       "home_id": "3735",
       "away_id": "2726",
       "kickoff_utc": "2026-10-11T12:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-2",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -4686,8 +4698,8 @@
       "home_id": "15784",
       "away_id": "21610",
       "kickoff_utc": "2026-10-11T19:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-0",
+      "acierto": true,
       "historial_snapshots": [
         {
           "minuto": "7'",
@@ -6189,17 +6201,20 @@
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "32'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (79%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (79%).",
+          "acierto": false
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "45'+2'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (74%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (74%).",
+          "acierto": null
         },
         {
           "tipo": "penal",
           "minuto": "45'+7'",
-          "texto": "🎯 Penal detectado."
+          "texto": "🎯 Penal detectado.",
+          "acierto": null
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -6235,8 +6250,8 @@
       "home_id": "7879",
       "away_id": "936",
       "kickoff_utc": "2026-10-11T17:15Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "4-3",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -6272,8 +6287,8 @@
       "home_id": "819",
       "away_id": "3445",
       "kickoff_utc": "2026-10-11T20:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-0",
+      "acierto": true,
       "historial_snapshots": [
         {
           "minuto": "3'",
@@ -7840,17 +7855,20 @@
         {
           "tipo": "posible_victoria_favorito",
           "minuto": "18'",
-          "texto": "🟢 Posible victoria del favorito -- domina claramente (79%)."
+          "texto": "🟢 Posible victoria del favorito -- domina claramente (79%).",
+          "acierto": false
         },
         {
           "tipo": "alerta_1er_tiempo",
           "minuto": "28'",
-          "texto": "⏱️ Alerta de primer tiempo -- el favorito domina el 0-0 (65%)."
+          "texto": "⏱️ Alerta de primer tiempo -- el favorito domina el 0-0 (65%).",
+          "acierto": false
         },
         {
           "tipo": "posible_victoria_favorito",
           "minuto": "56'",
-          "texto": "🟢 Posible victoria del favorito -- domina claramente (72%)."
+          "texto": "🟢 Posible victoria del favorito -- domina claramente (72%).",
+          "acierto": true
         }
       ],
       "diferencia_maxima_alcanzada": 0
