@@ -1072,13 +1072,13 @@
       "nombre": "Botafogo",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1385.08,
-      "rd": 285.95,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1369.46,
+      "rd": 238.08,
+      "vol": 0.059997,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-08"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:380": {
       "nombre": "Wolverhampton Wanderers",
@@ -1516,13 +1516,13 @@
       "nombre": "Sevilla",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1673.12,
-      "rd": 234.46,
+      "rating": 1598.2,
+      "rd": 217.25,
       "vol": 0.06,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-20"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:101": {
       "nombre": "Rayo Vallecano",
@@ -1588,25 +1588,25 @@
       "nombre": "Real Oviedo",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1766.53,
-      "rd": 232.61,
-      "vol": 0.059997,
-      "partidos_jugados": 3,
+      "rating": 1814.17,
+      "rd": 216.55,
+      "vol": 0.059996,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-28"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:3747": {
       "nombre": "Granada",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1705.84,
+      "rd": 275.4,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:84": {
       "nombre": "Mallorca",
@@ -1732,13 +1732,13 @@
       "nombre": "Alverca",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1383.36,
-      "rd": 286.93,
+      "rating": 1544.17,
+      "rd": 247.32,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-23"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:21610": {
       "nombre": "Estrela",
@@ -1996,13 +1996,13 @@
       "nombre": "Coritiba",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1334.79,
-      "rd": 223.93,
-      "vol": 0.059998,
-      "partidos_jugados": 3,
+      "rating": 1344.12,
+      "rd": 202.48,
+      "vol": 0.059997,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-09"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:9739": {
       "nombre": "Aldosivi",
@@ -2488,25 +2488,25 @@
       "nombre": "Levante",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1326.15,
-      "rd": 221.06,
+      "rating": 1391.76,
+      "rd": 206.75,
       "vol": 0.059997,
-      "partidos_jugados": 3,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-21"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:3752": {
       "nombre": "Eibar",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1412.28,
+      "rd": 289.87,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:245": {
       "nombre": "Tenerife",
@@ -2524,13 +2524,13 @@
       "nombre": "Burgos",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1583.56,
-      "rd": 241.77,
+      "rating": 1475.64,
+      "rd": 219.85,
       "vol": 0.059998,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-12"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:8447": {
       "nombre": "Córdoba",
@@ -2752,13 +2752,13 @@
       "nombre": "FC Famalicao",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1500.0,
-      "rd": 290.32,
+      "rating": 1335.77,
+      "rd": 249.15,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:552": {
       "nombre": "Maritimo",
@@ -3616,13 +3616,13 @@
       "nombre": "Coventry City",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1268.12,
-      "rd": 286.93,
+      "rating": 1414.75,
+      "rd": 245.05,
       "vol": 0.06,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:244": {
       "nombre": "Real Betis",
@@ -4096,13 +4096,13 @@
       "nombre": "Kalamata",
       "pais": "Greece",
       "liga": "Super League 1",
-      "rating": 1566.63,
-      "rd": 237.84,
+      "rating": 1645.53,
+      "rd": 216.72,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-21"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:11553": {
       "nombre": "Aris",
@@ -4264,13 +4264,13 @@
       "nombre": "Newcastle United",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1332.49,
-      "rd": 281.31,
+      "rating": 1190.8,
+      "rd": 242.08,
       "vol": 0.06,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-15"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:364": {
       "nombre": "Liverpool",
@@ -4516,13 +4516,13 @@
       "nombre": "PAOK",
       "pais": "Greece",
       "liga": "Super League 1",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1353.64,
+      "rd": 274.08,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-13"
     },
     "espn:5276": {
       "nombre": "Levadiakos",
