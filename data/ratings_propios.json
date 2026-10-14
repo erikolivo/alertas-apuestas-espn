@@ -1084,13 +1084,13 @@
       "nombre": "Wolverhampton Wanderers",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1278.95,
-      "rd": 218.75,
-      "vol": 0.059998,
-      "partidos_jugados": 3,
+      "rating": 1230.86,
+      "rd": 204.29,
+      "vol": 0.059997,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:365": {
       "nombre": "Blackburn Rovers",
@@ -1204,13 +1204,13 @@
       "nombre": "Galatasaray",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1797.7,
-      "rd": 199.67,
-      "vol": 0.059996,
-      "partidos_jugados": 5,
+      "rating": 1750.63,
+      "rd": 181.9,
+      "vol": 0.059995,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-10"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:132334": {
       "nombre": "Çorum FK",
@@ -1300,13 +1300,13 @@
       "nombre": "Bolton Wanderers",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1598.73,
+      "rd": 283.3,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:394": {
       "nombre": "Preston North End",
@@ -1372,13 +1372,13 @@
       "nombre": "Middlesbrough",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1538.54,
-      "rd": 242.32,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1667.12,
+      "rd": 216.74,
+      "vol": 0.059999,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:314": {
       "nombre": "Lincoln City",
@@ -1444,13 +1444,13 @@
       "nombre": "Stoke City",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1668.19,
-      "rd": 279.88,
+      "rating": 1500.56,
+      "rd": 238.88,
       "vol": 0.06,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-20"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:318": {
       "nombre": "Swansea City",
@@ -1696,13 +1696,13 @@
       "nombre": "PSV Eindhoven",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1728.44,
-      "rd": 177.64,
-      "vol": 0.059996,
-      "partidos_jugados": 6,
+      "rating": 1615.21,
+      "rd": 170.62,
+      "vol": 0.06,
+      "partidos_jugados": 7,
       "partidos_bootstrap": 0,
-      "partidos_reales": 6,
-      "ultima_actualizacion": "2026-10-10"
+      "partidos_reales": 7,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:143": {
       "nombre": "Fortuna Sittard",
@@ -1852,13 +1852,13 @@
       "nombre": "Club Brugge",
       "pais": "Belgium",
       "liga": "Jupiler Pro League",
-      "rating": 1723.73,
-      "rd": 197.27,
+      "rating": 1814.52,
+      "rd": 180.11,
       "vol": 0.059998,
-      "partidos_jugados": 5,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:938": {
       "nombre": "Racing Genk",
@@ -2404,13 +2404,13 @@
       "nombre": "Watford",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1230.37,
-      "rd": 178.73,
-      "vol": 0.059995,
-      "partidos_jugados": 6,
+      "rating": 1196.48,
+      "rd": 167.75,
+      "vol": 0.059994,
+      "partidos_jugados": 7,
       "partidos_bootstrap": 0,
-      "partidos_reales": 6,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 7,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:376": {
       "nombre": "Southampton",
@@ -3280,13 +3280,13 @@
       "nombre": "Cardiff City",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1458.29,
-      "rd": 207.85,
-      "vol": 0.06,
-      "partidos_jugados": 4,
+      "rating": 1502.07,
+      "rd": 190.04,
+      "vol": 0.059999,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:352": {
       "nombre": "Wrexham",
@@ -3604,13 +3604,13 @@
       "nombre": "Arsenal",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1735.79,
-      "rd": 200.51,
-      "vol": 0.060001,
-      "partidos_jugados": 4,
+      "rating": 1751.64,
+      "rd": 194.56,
+      "vol": 0.06,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:388": {
       "nombre": "Coventry City",
@@ -3856,13 +3856,13 @@
       "nombre": "Internazionale",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1811.64,
-      "rd": 228.92,
+      "rating": 1692.15,
+      "rd": 201.09,
       "vol": 0.059998,
-      "partidos_jugados": 3,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:4007": {
       "nombre": "Monza",
@@ -4288,13 +4288,13 @@
       "nombre": "Barcelona",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1983.62,
-      "rd": 167.39,
-      "vol": 0.059992,
-      "partidos_jugados": 9,
+      "rating": 2018.31,
+      "rd": 157.33,
+      "vol": 0.059991,
+      "partidos_jugados": 10,
       "partidos_bootstrap": 0,
-      "partidos_reales": 9,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 10,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:4057": {
       "nombre": "Frosinone",
@@ -4408,13 +4408,13 @@
       "nombre": "Lille",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1216.04,
-      "rd": 285.08,
-      "vol": 0.060001,
-      "partidos_jugados": 1,
+      "rating": 1190.14,
+      "rd": 268.14,
+      "vol": 0.06,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-21"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:3236": {
       "nombre": "Le Havre AC",
@@ -4648,13 +4648,13 @@
       "nombre": "Bayern Munich",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1654.34,
-      "rd": 196.64,
-      "vol": 0.059997,
-      "partidos_jugados": 5,
+      "rating": 1635.29,
+      "rd": 185.09,
+      "vol": 0.059996,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:134": {
       "nombre": "VfB Stuttgart",
@@ -4744,13 +4744,13 @@
       "nombre": "RB Leipzig",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1359.53,
-      "rd": 236.8,
-      "vol": 0.060001,
-      "partidos_jugados": 3,
+      "rating": 1568.34,
+      "rd": 219.52,
+      "vol": 0.060006,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:268": {
       "nombre": "Borussia Mönchengladbach",
@@ -4948,13 +4948,13 @@
       "nombre": "Viking FK",
       "pais": "Norway",
       "liga": "UEFA Champions League",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1565.86,
+      "rd": 273.74,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-14"
     },
     "espn:521": {
       "nombre": "Slovan Bratislava",
