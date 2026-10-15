@@ -436,13 +436,13 @@
       "nombre": "Fluminense",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1635.18,
-      "rd": 175.56,
+      "rating": 1569.73,
+      "rd": 161.85,
       "vol": 0.059996,
-      "partidos_jugados": 6,
+      "partidos_jugados": 7,
       "partidos_bootstrap": 0,
-      "partidos_reales": 6,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 7,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:9744": {
       "nombre": "Independiente Rivadavia",
@@ -580,13 +580,13 @@
       "nombre": "Orlando City SC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1463.72,
-      "rd": 227.08,
-      "vol": 0.059999,
-      "partidos_jugados": 3,
+      "rating": 1417.32,
+      "rd": 207.37,
+      "vol": 0.059998,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-27"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:15720": {
       "nombre": "Atlético de San Luis",
@@ -616,13 +616,13 @@
       "nombre": "Nashville SC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1778.14,
-      "rd": 246.89,
+      "rating": 1793.72,
+      "rd": 238.55,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:223": {
       "nombre": "Toluca",
@@ -724,13 +724,13 @@
       "nombre": "Palmeiras",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1621.49,
-      "rd": 203.33,
+      "rating": 1706.93,
+      "rd": 181.25,
       "vol": 0.059999,
-      "partidos_jugados": 4,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:2671": {
       "nombre": "Cerro Porteño",
@@ -808,13 +808,13 @@
       "nombre": "Atlético-MG",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1439.39,
-      "rd": 286.09,
+      "rating": 1574.92,
+      "rd": 251.1,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-20"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:7767": {
       "nombre": "Tigre",
@@ -832,13 +832,13 @@
       "nombre": "Montevideo City Torque",
       "pais": "Uruguay",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1309.49,
+      "rd": 281.47,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:10739": {
       "nombre": "Philadelphia Union",
@@ -2116,13 +2116,13 @@
       "nombre": "Toronto FC",
       "pais": "USA",
       "liga": "Major League Soccer",
-      "rating": 1231.71,
-      "rd": 251.13,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1289.57,
+      "rd": 223.89,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-27"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:189": {
       "nombre": "New England Revolution",
@@ -2176,13 +2176,13 @@
       "nombre": "Sporting Kansas City",
       "pais": "USA",
       "liga": "Major League Soccer",
-      "rating": 1181.7,
-      "rd": 230.71,
+      "rating": 1167.44,
+      "rd": 223.84,
       "vol": 0.059998,
-      "partidos_jugados": 3,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-02"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:191": {
       "nombre": "San Jose Earthquakes",
@@ -4240,13 +4240,13 @@
       "nombre": "Manchester City",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1884.57,
-      "rd": 229.44,
-      "vol": 0.059999,
-      "partidos_jugados": 3,
+      "rating": 1743.22,
+      "rd": 203.81,
+      "vol": 0.06,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:349": {
       "nombre": "AFC Bournemouth",
@@ -4276,13 +4276,13 @@
       "nombre": "Liverpool",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1428.65,
-      "rd": 299.75,
+      "rating": 1576.98,
+      "rd": 260.33,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:83": {
       "nombre": "Barcelona",
@@ -4456,13 +4456,13 @@
       "nombre": "Paris Saint-Germain",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1718.17,
-      "rd": 193.27,
-      "vol": 0.059997,
-      "partidos_jugados": 5,
+      "rating": 1819.7,
+      "rd": 178.54,
+      "vol": 0.059998,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:1010": {
       "nombre": "OFI Crete",
@@ -4660,13 +4660,13 @@
       "nombre": "VfB Stuttgart",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1719.2,
-      "rd": 283.8,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1759.18,
+      "rd": 262.17,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:598": {
       "nombre": "1. FC Union Berlin",
@@ -4936,13 +4936,13 @@
       "nombre": "LASK Linz",
       "pais": "Austria",
       "liga": "UEFA Champions League",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1307.14,
+      "rd": 283.87,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:510": {
       "nombre": "Viking FK",
@@ -4960,13 +4960,13 @@
       "nombre": "Slovan Bratislava",
       "pais": null,
       "liga": "UEFA Champions League",
-      "rating": 1286.92,
-      "rd": 283.79,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1246.94,
+      "rd": 262.16,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-10"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-15"
     },
     "espn:493": {
       "nombre": "Shakhtar Donetsk",
