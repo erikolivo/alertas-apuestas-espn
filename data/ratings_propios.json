@@ -1672,13 +1672,13 @@
       "nombre": "AZ Alkmaar",
       "pais": "Netherlands",
       "liga": "Eredivisie",
-      "rating": 1543.68,
-      "rd": 198.18,
+      "rating": 1604.36,
+      "rd": 185.46,
       "vol": 0.059998,
-      "partidos_jugados": 4,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:2566": {
       "nombre": "Excelsior",
@@ -1792,13 +1792,13 @@
       "nombre": "Union St.-Gilloise",
       "pais": "Belgium",
       "liga": "Jupiler Pro League",
-      "rating": 1707.4,
-      "rd": 225.22,
-      "vol": 0.059997,
-      "partidos_jugados": 4,
+      "rating": 1707.03,
+      "rd": 202.1,
+      "vol": 0.059995,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:4691": {
       "nombre": "Zulte-Waregem",
@@ -3388,13 +3388,13 @@
       "nombre": "Benfica",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1920.34,
-      "rd": 194.67,
-      "vol": 0.059995,
-      "partidos_jugados": 7,
+      "rating": 1942.8,
+      "rd": 187.78,
+      "vol": 0.059994,
+      "partidos_jugados": 8,
       "partidos_bootstrap": 0,
-      "partidos_reales": 7,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 8,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:11429": {
       "nombre": "Samsunspor",
@@ -3640,13 +3640,13 @@
       "nombre": "Real Sociedad",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1705.5,
-      "rd": 267.72,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1706.04,
+      "rd": 226.96,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:176": {
       "nombre": "Marseille",
@@ -3724,13 +3724,13 @@
       "nombre": "Crystal Palace",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1610.56,
-      "rd": 191.44,
+      "rating": 1534.8,
+      "rd": 180.33,
       "vol": 0.06,
-      "partidos_jugados": 5,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:373": {
       "nombre": "Ipswich Town",
@@ -3748,13 +3748,13 @@
       "nombre": "Sunderland",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1489.98,
-      "rd": 223.71,
+      "rating": 1572.99,
+      "rd": 205.65,
       "vol": 0.059998,
-      "partidos_jugados": 3,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-09-21"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:393": {
       "nombre": "Nottingham Forest",
@@ -4036,13 +4036,13 @@
       "nombre": "Lyon",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1725.88,
+      "rd": 269.38,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:170": {
       "nombre": "Troyes",
@@ -4180,13 +4180,13 @@
       "nombre": "Celtic",
       "pais": "Scotland",
       "liga": "Premiership",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1447.52,
+      "rd": 307.68,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:264": {
       "nombre": "Dundee United",
@@ -4252,13 +4252,13 @@
       "nombre": "AFC Bournemouth",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1327.75,
-      "rd": 271.56,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1478.45,
+      "rd": 243.48,
+      "vol": 0.06,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:361": {
       "nombre": "Newcastle United",
@@ -4444,13 +4444,13 @@
       "nombre": "Stade Rennais",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1800.66,
-      "rd": 243.08,
-      "vol": 0.06,
-      "partidos_jugados": 2,
+      "rating": 1865.93,
+      "rd": 213.38,
+      "vol": 0.059999,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:160": {
       "nombre": "Paris Saint-Germain",
@@ -4468,13 +4468,13 @@
       "nombre": "OFI Crete",
       "pais": "Greece",
       "liga": "Super League 1",
-      "rating": 1618.97,
-      "rd": 184.07,
-      "vol": 0.06,
-      "partidos_jugados": 5,
+      "rating": 1577.99,
+      "rd": 171.97,
+      "vol": 0.059999,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:20043": {
       "nombre": "Volos NFC",
@@ -5020,13 +5020,13 @@
       "nombre": "Ararat-Armenia",
       "pais": null,
       "liga": "UEFA Europa League",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1256.1,
+      "rd": 285.49,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:433": {
       "nombre": "Sparta Prague",
@@ -5068,13 +5068,13 @@
       "nombre": "Hapoel Be'er",
       "pais": "Israel",
       "liga": "UEFA Europa League",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1344.7,
+      "rd": 267.02,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:597": {
       "nombre": "Dinamo Zagreb",
@@ -5092,25 +5092,25 @@
       "nombre": "Jagiellonia Bialystok",
       "pais": null,
       "liga": "UEFA Europa League",
-      "rating": 1321.83,
-      "rd": 270.62,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1473.07,
+      "rd": 242.98,
+      "vol": 0.060001,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-17"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:3746": {
       "nombre": "SK Sturm Graz",
       "pais": "Austria",
       "liga": "UEFA Europa League",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1259.09,
+      "rd": 285.16,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:490": {
       "nombre": "Levski Sofia",
@@ -5176,13 +5176,13 @@
       "nombre": "Torreense",
       "pais": null,
       "liga": "UEFA Europa League",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1324.16,
+      "rd": 270.56,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-16"
     },
     "espn:11706": {
       "nombre": "Viktoria Plzen",
