@@ -37,8 +37,8 @@
       "home_id": "229",
       "away_id": "216",
       "kickoff_utc": "2026-10-17T01:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-2",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -79,8 +79,8 @@
       "home_id": "10125",
       "away_id": "231",
       "kickoff_utc": "2026-10-17T03:05Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-0",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -116,8 +116,8 @@
       "home_id": "2697",
       "away_id": "179",
       "kickoff_utc": "2026-10-16T18:45Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-3",
+      "acierto": false,
       "historial_snapshots": [
         {
           "minuto": "9'",
@@ -1554,22 +1554,26 @@
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "51'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (100%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (100%).",
+          "acierto": true
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "66'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (90%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (90%).",
+          "acierto": true
         },
         {
           "tipo": "partido_resuelto",
           "minuto": "76'",
-          "texto": "🏁 Seguimiento cerrado -- diferencia de 3+ goles."
+          "texto": "🏁 Seguimiento cerrado -- diferencia de 3+ goles.",
+          "acierto": null
         },
         {
           "tipo": "gol_de_cierre",
           "minuto": "86'",
-          "texto": "⏰ Posible gol de cierre -- dominancia acumulada alta (99%) en el tramo final."
+          "texto": "⏰ Posible gol de cierre -- dominancia acumulada alta (99%) en el tramo final.",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 3
