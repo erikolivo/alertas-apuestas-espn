@@ -1900,13 +1900,13 @@
       "nombre": "Trabzonspor",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1801.46,
+      "rd": 290.0,
+      "vol": 0.060001,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-20"
     },
     "espn:7648": {
       "nombre": "Konyaspor",
@@ -2728,25 +2728,25 @@
       "nombre": "Braga",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1689.91,
-      "rd": 252.35,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1519.72,
+      "rd": 226.85,
+      "vol": 0.06,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-15"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-20"
     },
     "espn:3699": {
       "nombre": "Gil Vicente",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1449.31,
-      "rd": 259.62,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1629.39,
+      "rd": 231.68,
+      "vol": 0.06,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-14"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-20"
     },
     "espn:12698": {
       "nombre": "FC Famalicao",
@@ -2920,13 +2920,13 @@
       "nombre": "Besiktas",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1767.07,
-      "rd": 233.27,
-      "vol": 0.059998,
-      "partidos_jugados": 3,
+      "rating": 1633.36,
+      "rd": 217.09,
+      "vol": 0.059999,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-20"
     },
     "espn:20729": {
       "nombre": "Eyupspor",
@@ -3868,13 +3868,13 @@
       "nombre": "Monza",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1616.64,
+      "rd": 286.93,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-20"
     },
     "espn:118": {
       "nombre": "Udinese",
@@ -3940,13 +3940,13 @@
       "nombre": "Cagliari",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1337.69,
-      "rd": 290.32,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1249.46,
+      "rd": 256.35,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-20"
     },
     "espn:175": {
       "nombre": "Lens",
