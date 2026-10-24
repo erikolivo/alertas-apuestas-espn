@@ -37,8 +37,8 @@
       "home_id": "134",
       "away_id": "268",
       "kickoff_utc": "2026-10-23T18:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-3",
+      "acierto": false,
       "historial_snapshots": [
         {
           "minuto": "45'+6'",
@@ -890,7 +890,8 @@
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "70'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (72%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (72%).",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -931,8 +932,8 @@
       "home_id": "2022",
       "away_id": "4936",
       "kickoff_utc": "2026-10-23T23:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-0",
+      "acierto": true,
       "historial_snapshots": [
         {
           "minuto": "5'",
@@ -2369,7 +2370,8 @@
         {
           "tipo": "ampliacion_marcador",
           "minuto": "82'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (78%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (78%).",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -2410,8 +2412,8 @@
       "home_id": "358",
       "away_id": "369",
       "kickoff_utc": "2026-10-23T19:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-5",
+      "acierto": true,
       "historial_snapshots": [
         {
           "minuto": "25'",
@@ -3588,22 +3590,26 @@
         {
           "tipo": "ampliacion_marcador",
           "minuto": "36'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (100%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (100%).",
+          "acierto": true
         },
         {
           "tipo": "partido_resuelto",
           "minuto": "41'",
-          "texto": "🏁 Seguimiento cerrado -- diferencia de 3+ goles."
+          "texto": "🏁 Seguimiento cerrado -- diferencia de 3+ goles.",
+          "acierto": null
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "47'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (71%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (71%).",
+          "acierto": false
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "67'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (96%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (96%).",
+          "acierto": true
         }
       ],
       "diferencia_maxima_alcanzada": 3
@@ -3644,8 +3650,8 @@
       "home_id": "96",
       "away_id": "99",
       "kickoff_utc": "2026-10-23T19:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-1",
+      "acierto": false,
       "historial_snapshots": [
         {
           "minuto": "25'",
@@ -4822,7 +4828,8 @@
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "45'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (79%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (79%).",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -4858,8 +4865,8 @@
       "home_id": "239",
       "away_id": "4007",
       "kickoff_utc": "2026-10-23T18:45Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "3-2",
+      "acierto": false,
       "historial_snapshots": [
         {
           "minuto": "39'",
@@ -5841,7 +5848,8 @@
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "75'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (79%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (79%).",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 0

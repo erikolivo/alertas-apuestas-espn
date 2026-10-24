@@ -772,13 +772,13 @@
       "nombre": "Cruzeiro",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1783.45,
-      "rd": 241.37,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1809.55,
+      "rd": 227.44,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-19"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-24"
     },
     "espn:819": {
       "nombre": "Flamengo",
@@ -1300,13 +1300,13 @@
       "nombre": "Bolton Wanderers",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1527.68,
-      "rd": 250.07,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1442.39,
+      "rd": 215.21,
+      "vol": 0.059997,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-18"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-24"
     },
     "espn:394": {
       "nombre": "Preston North End",
@@ -1372,13 +1372,13 @@
       "nombre": "Middlesbrough",
       "pais": "England",
       "liga": "Championship",
-      "rating": 1631.12,
-      "rd": 194.59,
-      "vol": 0.059998,
-      "partidos_jugados": 4,
+      "rating": 1686.92,
+      "rd": 179.17,
+      "vol": 0.059997,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-18"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-24"
     },
     "espn:314": {
       "nombre": "Lincoln City",
@@ -1492,13 +1492,13 @@
       "nombre": "Alavés",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1306.21,
-      "rd": 275.17,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1291.22,
+      "rd": 226.74,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-24"
     },
     "espn:2922": {
       "nombre": "Getafe",
@@ -3436,13 +3436,13 @@
       "nombre": "Remo",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1340.1,
-      "rd": 199.41,
-      "vol": 0.059996,
-      "partidos_jugados": 5,
+      "rating": 1320.55,
+      "rd": 191.64,
+      "vol": 0.059995,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-24"
     },
     "espn:19685": {
       "nombre": "Estudiantes de Río Cuarto",
@@ -3592,13 +3592,13 @@
       "nombre": "Málaga",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1260.06,
-      "rd": 174.04,
-      "vol": 0.059996,
-      "partidos_jugados": 6,
+      "rating": 1265.82,
+      "rd": 163.19,
+      "vol": 0.059994,
+      "partidos_jugados": 7,
       "partidos_bootstrap": 0,
-      "partidos_reales": 6,
-      "ultima_actualizacion": "2026-09-21"
+      "partidos_reales": 7,
+      "ultima_actualizacion": "2026-10-24"
     },
     "espn:359": {
       "nombre": "Arsenal",
@@ -3868,13 +3868,13 @@
       "nombre": "Monza",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1616.64,
-      "rd": 286.93,
+      "rating": 1466.48,
+      "rd": 252.72,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-20"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-24"
     },
     "espn:118": {
       "nombre": "Udinese",
@@ -4372,13 +4372,13 @@
       "nombre": "Torino",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1713.08,
+      "rd": 283.79,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-24"
     },
     "espn:103": {
       "nombre": "AC Milan",
@@ -4660,13 +4660,13 @@
       "nombre": "VfB Stuttgart",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1561.57,
-      "rd": 233.96,
-      "vol": 0.060001,
-      "partidos_jugados": 3,
+      "rating": 1356.37,
+      "rd": 223.4,
+      "vol": 0.060006,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-18"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-24"
     },
     "espn:598": {
       "nombre": "1. FC Union Berlin",
@@ -4756,13 +4756,13 @@
       "nombre": "Borussia Mönchengladbach",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1069.81,
-      "rd": 244.16,
-      "vol": 0.06,
-      "partidos_jugados": 2,
+      "rating": 1295.65,
+      "rd": 232.16,
+      "vol": 0.060005,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-19"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-24"
     },
     "espn:10388": {
       "nombre": "SV Elversberg",
