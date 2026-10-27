@@ -4,13 +4,13 @@
       "nombre": "Santa Clara",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1455.7,
+      "rd": 313.03,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:3472": {
       "nombre": "C.D. Nacional",
@@ -784,13 +784,13 @@
       "nombre": "Flamengo",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1795.67,
-      "rd": 162.01,
-      "vol": 0.059993,
-      "partidos_jugados": 8,
+      "rating": 1824.67,
+      "rd": 154.42,
+      "vol": 0.059992,
+      "partidos_jugados": 9,
       "partidos_bootstrap": 0,
-      "partidos_reales": 8,
-      "ultima_actualizacion": "2026-10-23"
+      "partidos_reales": 9,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:6079": {
       "nombre": "Red Bull Bragantino",
@@ -808,13 +808,13 @@
       "nombre": "Atlético-MG",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1574.92,
-      "rd": 251.1,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1514.45,
+      "rd": 219.96,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-15"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:7767": {
       "nombre": "Tigre",
@@ -1204,13 +1204,13 @@
       "nombre": "Galatasaray",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1791.76,
-      "rd": 170.72,
-      "vol": 0.059994,
-      "partidos_jugados": 8,
+      "rating": 1817.35,
+      "rd": 164.56,
+      "vol": 0.059993,
+      "partidos_jugados": 9,
       "partidos_bootstrap": 0,
-      "partidos_reales": 8,
-      "ultima_actualizacion": "2026-10-22"
+      "partidos_reales": 9,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:132334": {
       "nombre": "Çorum FK",
@@ -1900,13 +1900,13 @@
       "nombre": "Trabzonspor",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1801.46,
-      "rd": 290.0,
-      "vol": 0.060001,
-      "partidos_jugados": 1,
+      "rating": 1864.5,
+      "rd": 261.99,
+      "vol": 0.06,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-20"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:7648": {
       "nombre": "Konyaspor",
@@ -1924,13 +1924,13 @@
       "nombre": "Caykur Rizespor",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1417.64,
+      "rd": 298.6,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:20070": {
       "nombre": "Gaziantep FK",
@@ -1972,13 +1972,13 @@
       "nombre": "Fenerbahce",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1421.8,
+      "rd": 288.27,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:3458": {
       "nombre": "Athletico-PR",
@@ -2872,13 +2872,13 @@
       "nombre": "Istanbul Basaksehir",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1365.7,
+      "rd": 268.96,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:995": {
       "nombre": "Kocaelispor",
@@ -2920,13 +2920,13 @@
       "nombre": "Besiktas",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1601.3,
-      "rd": 192.92,
-      "vol": 0.059997,
-      "partidos_jugados": 5,
+      "rating": 1652.51,
+      "rd": 181.48,
+      "vol": 0.059996,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-23"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:20729": {
       "nombre": "Eyupspor",
@@ -3388,13 +3388,13 @@
       "nombre": "Benfica",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1962.41,
-      "rd": 181.96,
-      "vol": 0.059993,
-      "partidos_jugados": 9,
+      "rating": 1979.8,
+      "rd": 176.96,
+      "vol": 0.059992,
+      "partidos_jugados": 10,
       "partidos_bootstrap": 0,
-      "partidos_reales": 9,
-      "ultima_actualizacion": "2026-10-23"
+      "partidos_reales": 10,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:11429": {
       "nombre": "Samsunspor",
@@ -4036,13 +4036,13 @@
       "nombre": "Lyon",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1786.0,
-      "rd": 236.42,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1716.79,
+      "rd": 206.17,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-19"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:170": {
       "nombre": "Troyes",
@@ -4456,13 +4456,13 @@
       "nombre": "Paris Saint-Germain",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1934.76,
-      "rd": 163.43,
-      "vol": 0.060001,
-      "partidos_jugados": 8,
+      "rating": 1971.49,
+      "rd": 154.28,
+      "vol": 0.06,
+      "partidos_jugados": 9,
       "partidos_bootstrap": 0,
-      "partidos_reales": 8,
-      "ultima_actualizacion": "2026-10-21"
+      "partidos_reales": 9,
+      "ultima_actualizacion": "2026-10-27"
     },
     "espn:1010": {
       "nombre": "OFI Crete",
