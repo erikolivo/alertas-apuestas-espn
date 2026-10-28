@@ -448,13 +448,13 @@
       "nombre": "Independiente Rivadavia",
       "pais": "Argentina",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1630.3,
-      "rd": 252.36,
+      "rating": 1508.66,
+      "rd": 219.99,
       "vol": 0.059998,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-28"
     },
     "espn:5489": {
       "nombre": "Deportes Tolima",
@@ -3028,13 +3028,13 @@
       "nombre": "Argentinos Juniors",
       "pais": "Argentina",
       "liga": "Liga Profesional Argentina",
-      "rating": 1577.79,
-      "rd": 251.63,
+      "rating": 1698.81,
+      "rd": 219.56,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-28"
     },
     "espn:10060": {
       "nombre": "Barracas Central",
@@ -3892,13 +3892,13 @@
       "nombre": "Como",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1743.95,
-      "rd": 204.8,
+      "rating": 1814.45,
+      "rd": 187.86,
       "vol": 0.059995,
-      "partidos_jugados": 5,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-25"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-28"
     },
     "espn:3263": {
       "nombre": "Genoa",
@@ -3940,13 +3940,13 @@
       "nombre": "Cagliari",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1249.46,
-      "rd": 256.35,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1217.49,
+      "rd": 238.65,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-20"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-28"
     },
     "espn:175": {
       "nombre": "Lens",
@@ -4372,13 +4372,13 @@
       "nombre": "Torino",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1713.08,
-      "rd": 283.79,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1590.29,
+      "rd": 234.46,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-24"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-28"
     },
     "espn:103": {
       "nombre": "AC Milan",
@@ -4624,13 +4624,13 @@
       "nombre": "AS Roma",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1671.56,
-      "rd": 211.96,
-      "vol": 0.059996,
-      "partidos_jugados": 4,
+      "rating": 1695.6,
+      "rd": 202.09,
+      "vol": 0.059995,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-25"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-28"
     },
     "espn:109": {
       "nombre": "Fiorentina",
