@@ -32,8 +32,8 @@
       "home_id": "4057",
       "away_id": "113",
       "kickoff_utc": "2026-10-29T17:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "5-1",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -74,8 +74,8 @@
       "home_id": "3454",
       "away_id": "819",
       "kickoff_utc": "2026-10-29T23:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-4",
+      "acierto": true,
       "historial_snapshots": [
         {
           "minuto": null,
@@ -1594,27 +1594,32 @@
         {
           "tipo": "ampliacion_marcador",
           "minuto": "45'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (93%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (93%).",
+          "acierto": true
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "56'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (88%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (88%).",
+          "acierto": false
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "67'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (79%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (79%).",
+          "acierto": false
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "82'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (86%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (86%).",
+          "acierto": false
         },
         {
           "tipo": "partido_resuelto",
           "minuto": "87'",
-          "texto": "🏁 Seguimiento cerrado -- diferencia de 3+ goles."
+          "texto": "🏁 Seguimiento cerrado -- diferencia de 3+ goles.",
+          "acierto": null
         }
       ],
       "diferencia_maxima_alcanzada": 3

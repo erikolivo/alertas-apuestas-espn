@@ -784,13 +784,13 @@
       "nombre": "Flamengo",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1824.67,
-      "rd": 154.42,
-      "vol": 0.059992,
-      "partidos_jugados": 9,
+      "rating": 1854.56,
+      "rd": 147.12,
+      "vol": 0.059991,
+      "partidos_jugados": 10,
       "partidos_bootstrap": 0,
-      "partidos_reales": 9,
-      "ultima_actualizacion": "2026-10-27"
+      "partidos_reales": 10,
+      "ultima_actualizacion": "2026-10-30"
     },
     "espn:6079": {
       "nombre": "Red Bull Bragantino",
@@ -1036,13 +1036,13 @@
       "nombre": "Vasco da Gama",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1640.44,
-      "rd": 236.0,
-      "vol": 0.06,
-      "partidos_jugados": 3,
+      "rating": 1578.64,
+      "rd": 207.22,
+      "vol": 0.059999,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-10-30"
     },
     "espn:2675": {
       "nombre": "Club Olimpia",
@@ -4300,13 +4300,13 @@
       "nombre": "Frosinone",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1609.61,
+      "rd": 287.96,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-30"
     },
     "espn:111": {
       "nombre": "Juventus",
@@ -4336,13 +4336,13 @@
       "nombre": "Lecce",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1311.97,
-      "rd": 284.1,
-      "vol": 0.06,
-      "partidos_jugados": 1,
+      "rating": 1231.55,
+      "rd": 252.9,
+      "vol": 0.059999,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-21"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-30"
     },
     "espn:105": {
       "nombre": "Atalanta",
