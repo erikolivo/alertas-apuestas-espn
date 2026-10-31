@@ -1156,13 +1156,13 @@
       "nombre": "Sporting CP",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1575.54,
-      "rd": 183.16,
-      "vol": 0.060001,
-      "partidos_jugados": 7,
+      "rating": 1612.48,
+      "rd": 170.94,
+      "vol": 0.06,
+      "partidos_jugados": 8,
       "partidos_bootstrap": 0,
-      "partidos_reales": 7,
-      "ultima_actualizacion": "2026-10-26"
+      "partidos_reales": 8,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:5309": {
       "nombre": "Vitória de Guimaraes",
@@ -1204,13 +1204,13 @@
       "nombre": "Galatasaray",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1817.35,
-      "rd": 164.56,
-      "vol": 0.059993,
-      "partidos_jugados": 9,
+      "rating": 1839.6,
+      "rd": 159.34,
+      "vol": 0.059992,
+      "partidos_jugados": 10,
       "partidos_bootstrap": 0,
-      "partidos_reales": 9,
-      "ultima_actualizacion": "2026-10-27"
+      "partidos_reales": 10,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:132334": {
       "nombre": "Çorum FK",
@@ -1804,13 +1804,13 @@
       "nombre": "Zulte-Waregem",
       "pais": "Belgium",
       "liga": "Jupiler Pro League",
-      "rating": 1253.31,
-      "rd": 204.32,
+      "rating": 1243.95,
+      "rd": 199.9,
       "vol": 0.059997,
-      "partidos_jugados": 4,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-25"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:5786": {
       "nombre": "KV Kortrijk",
@@ -1852,13 +1852,13 @@
       "nombre": "Club Brugge",
       "pais": "Belgium",
       "liga": "Jupiler Pro League",
-      "rating": 1850.69,
-      "rd": 169.93,
+      "rating": 1857.85,
+      "rd": 167.44,
       "vol": 0.059996,
-      "partidos_jugados": 8,
+      "partidos_jugados": 9,
       "partidos_bootstrap": 0,
-      "partidos_reales": 8,
-      "ultima_actualizacion": "2026-10-26"
+      "partidos_reales": 9,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:938": {
       "nombre": "Racing Genk",
@@ -1912,13 +1912,13 @@
       "nombre": "Konyaspor",
       "pais": "Turkey",
       "liga": "Super Lig",
-      "rating": 1500.0,
-      "rd": 350.0,
-      "vol": 0.06,
-      "partidos_jugados": 0,
+      "rating": 1428.21,
+      "rd": 291.75,
+      "vol": 0.059999,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:7656": {
       "nombre": "Caykur Rizespor",
@@ -2464,25 +2464,25 @@
       "nombre": "Villarreal",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1482.11,
-      "rd": 166.92,
-      "vol": 0.059995,
-      "partidos_jugados": 5,
+      "rating": 1395.11,
+      "rd": 157.49,
+      "vol": 0.059997,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-18"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:88": {
       "nombre": "Espanyol",
       "pais": "Spain",
       "liga": "La Liga",
-      "rating": 1276.03,
-      "rd": 207.22,
-      "vol": 0.060003,
-      "partidos_jugados": 4,
+      "rating": 1409.58,
+      "rd": 188.3,
+      "vol": 0.060005,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-25"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:1538": {
       "nombre": "Levante",
@@ -3376,13 +3376,13 @@
       "nombre": "Casa Pia",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1360.83,
-      "rd": 204.0,
-      "vol": 0.059999,
-      "partidos_jugados": 4,
+      "rating": 1316.46,
+      "rd": 186.73,
+      "vol": 0.059998,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-25"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:1929": {
       "nombre": "Benfica",
@@ -4420,13 +4420,13 @@
       "nombre": "Le Havre AC",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1295.5,
-      "rd": 273.73,
+      "rating": 1284.69,
+      "rd": 266.4,
       "vol": 0.06,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-26"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:174": {
       "nombre": "AS Monaco",
@@ -4456,13 +4456,13 @@
       "nombre": "Paris Saint-Germain",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1971.49,
-      "rd": 154.28,
+      "rating": 1976.61,
+      "rd": 152.99,
       "vol": 0.06,
-      "partidos_jugados": 9,
+      "partidos_jugados": 10,
       "partidos_bootstrap": 0,
-      "partidos_reales": 9,
-      "ultima_actualizacion": "2026-10-27"
+      "partidos_reales": 10,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:1010": {
       "nombre": "OFI Crete",
@@ -4720,13 +4720,13 @@
       "nombre": "Mainz",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1672.62,
-      "rd": 271.77,
+      "rating": 1510.96,
+      "rd": 233.39,
       "vol": 0.059999,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-18"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:3307": {
       "nombre": "SC Paderborn 07",
@@ -4768,13 +4768,13 @@
       "nombre": "SV Elversberg",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1542.38,
-      "rd": 237.29,
-      "vol": 0.06,
-      "partidos_jugados": 2,
+      "rating": 1668.19,
+      "rd": 212.66,
+      "vol": 0.060001,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-18"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-10-31"
     },
     "espn:131": {
       "nombre": "Bayer Leverkusen",
