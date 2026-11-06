@@ -724,13 +724,13 @@
       "nombre": "Palmeiras",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1610.86,
-      "rd": 157.0,
-      "vol": 0.059998,
-      "partidos_jugados": 7,
+      "rating": 1632.4,
+      "rd": 150.47,
+      "vol": 0.059997,
+      "partidos_jugados": 8,
       "partidos_bootstrap": 0,
-      "partidos_reales": 7,
-      "ultima_actualizacion": "2026-10-29"
+      "partidos_reales": 8,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:2671": {
       "nombre": "Cerro Porteño",
@@ -2008,13 +2008,13 @@
       "nombre": "Aldosivi",
       "pais": "Argentina",
       "liga": "Liga Profesional Argentina",
-      "rating": 1242.74,
-      "rd": 249.51,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1218.41,
+      "rd": 236.9,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-13"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:18": {
       "nombre": "San Lorenzo",
@@ -3016,13 +3016,13 @@
       "nombre": "River Plate",
       "pais": "Argentina",
       "liga": "Liga Profesional Argentina",
-      "rating": 1737.5,
-      "rd": 244.37,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1761.13,
+      "rd": 232.52,
+      "vol": 0.059998,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-26"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:3": {
       "nombre": "Argentinos Juniors",
@@ -3388,13 +3388,13 @@
       "nombre": "Benfica",
       "pais": "Portugal",
       "liga": "Primeira Liga",
-      "rating": 1979.8,
-      "rd": 176.96,
+      "rating": 1986.23,
+      "rd": 174.91,
       "vol": 0.059992,
-      "partidos_jugados": 10,
+      "partidos_jugados": 11,
       "partidos_bootstrap": 0,
-      "partidos_reales": 10,
-      "ultima_actualizacion": "2026-10-27"
+      "partidos_reales": 11,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:11429": {
       "nombre": "Samsunspor",
@@ -3436,13 +3436,13 @@
       "nombre": "Remo",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1320.55,
-      "rd": 191.64,
-      "vol": 0.059995,
-      "partidos_jugados": 6,
+      "rating": 1290.24,
+      "rd": 179.26,
+      "vol": 0.059994,
+      "partidos_jugados": 7,
       "partidos_bootstrap": 0,
-      "partidos_reales": 6,
-      "ultima_actualizacion": "2026-10-24"
+      "partidos_reales": 7,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:19685": {
       "nombre": "Estudiantes de Río Cuarto",
@@ -3652,13 +3652,13 @@
       "nombre": "Marseille",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1522.27,
-      "rd": 212.87,
-      "vol": 0.06,
-      "partidos_jugados": 4,
+      "rating": 1663.44,
+      "rd": 198.0,
+      "vol": 0.060003,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-26"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:180": {
       "nombre": "Strasbourg",
@@ -3748,13 +3748,13 @@
       "nombre": "Sunderland",
       "pais": "England",
       "liga": "Premier League",
-      "rating": 1371.3,
-      "rd": 174.2,
+      "rating": 1304.94,
+      "rd": 163.12,
       "vol": 0.06,
-      "partidos_jugados": 6,
+      "partidos_jugados": 7,
       "partidos_bootstrap": 0,
-      "partidos_reales": 6,
-      "ultima_actualizacion": "2026-11-01"
+      "partidos_reales": 7,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:393": {
       "nombre": "Nottingham Forest",
@@ -4384,13 +4384,13 @@
       "nombre": "AC Milan",
       "pais": "Italy",
       "liga": "Serie A",
-      "rating": 1588.04,
-      "rd": 262.51,
+      "rating": 1481.8,
+      "rd": 229.25,
       "vol": 0.059999,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-09-21"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:7868": {
       "nombre": "Angers",
@@ -4780,13 +4780,13 @@
       "nombre": "Bayer Leverkusen",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1809.22,
-      "rd": 241.2,
-      "vol": 0.059999,
-      "partidos_jugados": 2,
+      "rating": 1626.72,
+      "rd": 219.08,
+      "vol": 0.060002,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-23"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:124": {
       "nombre": "Borussia Dortmund",
@@ -5080,13 +5080,13 @@
       "nombre": "Dinamo Zagreb",
       "pais": null,
       "liga": "UEFA Europa League",
-      "rating": 1309.84,
-      "rd": 266.19,
+      "rating": 1453.08,
+      "rd": 222.02,
       "vol": 0.06,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-23"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:11505": {
       "nombre": "Jagiellonia Bialystok",
@@ -5140,25 +5140,25 @@
       "nombre": "Ferencvaros",
       "pais": "Hungary",
       "liga": "UEFA Europa League",
-      "rating": 1612.67,
-      "rd": 285.31,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1734.64,
+      "rd": 241.52,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-10-23"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:2990": {
       "nombre": "Lech Poznan",
       "pais": null,
       "liga": "UEFA Europa League",
-      "rating": 1291.25,
-      "rd": 277.97,
+      "rating": 1280.02,
+      "rd": 270.46,
       "vol": 0.06,
-      "partidos_jugados": 1,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-09-18"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-11-06"
     },
     "espn:987": {
       "nombre": "Lillestrom",
