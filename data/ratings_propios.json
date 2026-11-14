@@ -2524,13 +2524,13 @@
       "nombre": "Burgos",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1475.64,
-      "rd": 219.85,
-      "vol": 0.059998,
-      "partidos_jugados": 3,
+      "rating": 1356.34,
+      "rd": 199.7,
+      "vol": 0.059999,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-13"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-11-14"
     },
     "espn:8447": {
       "nombre": "Córdoba",
@@ -2560,13 +2560,13 @@
       "nombre": "Leganés",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1318.58,
-      "rd": 255.23,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1476.9,
+      "rd": 222.52,
+      "vol": 0.059999,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-11-14"
     },
     "espn:98": {
       "nombre": "Las Palmas",
