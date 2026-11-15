@@ -1036,13 +1036,13 @@
       "nombre": "Vasco da Gama",
       "pais": "Brazil",
       "liga": "CONMEBOL Sudamericana",
-      "rating": 1578.64,
-      "rd": 207.22,
-      "vol": 0.059999,
-      "partidos_jugados": 4,
+      "rating": 1624.57,
+      "rd": 189.22,
+      "vol": 0.059998,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-30"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-11-15"
     },
     "espn:2675": {
       "nombre": "Club Olimpia",
@@ -1120,13 +1120,13 @@
       "nombre": "Castellón",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1642.39,
-      "rd": 243.07,
-      "vol": 0.059999,
-      "partidos_jugados": 3,
+      "rating": 1696.36,
+      "rd": 219.94,
+      "vol": 0.059998,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-05"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-11-15"
     },
     "espn:3735": {
       "nombre": "Telstar",
@@ -1624,13 +1624,13 @@
       "nombre": "Real Valladolid",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1395.77,
-      "rd": 250.95,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1339.02,
+      "rd": 225.32,
+      "vol": 0.059997,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-05"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-11-15"
     },
     "espn:156": {
       "nombre": "Willem II",
@@ -2944,13 +2944,13 @@
       "nombre": "Chapecoense",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1366.47,
-      "rd": 187.35,
-      "vol": 0.060005,
-      "partidos_jugados": 5,
+      "rating": 1327.75,
+      "rd": 174.32,
+      "vol": 0.060004,
+      "partidos_jugados": 6,
       "partidos_bootstrap": 0,
-      "partidos_reales": 5,
-      "ultima_actualizacion": "2026-10-29"
+      "partidos_reales": 6,
+      "ultima_actualizacion": "2026-11-15"
     },
     "espn:9967": {
       "nombre": "Bahia",
