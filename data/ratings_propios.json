@@ -784,13 +784,13 @@
       "nombre": "Flamengo",
       "pais": "Brazil",
       "liga": "CONMEBOL Libertadores",
-      "rating": 1865.69,
-      "rd": 144.41,
-      "vol": 0.05999,
-      "partidos_jugados": 11,
+      "rating": 1885.08,
+      "rd": 140.08,
+      "vol": 0.059989,
+      "partidos_jugados": 12,
       "partidos_bootstrap": 0,
-      "partidos_reales": 11,
-      "ultima_actualizacion": "2026-11-05"
+      "partidos_reales": 12,
+      "ultima_actualizacion": "2026-11-19"
     },
     "espn:6079": {
       "nombre": "Red Bull Bragantino",
@@ -1984,13 +1984,13 @@
       "nombre": "Athletico-PR",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1584.45,
-      "rd": 282.27,
-      "vol": 0.059999,
-      "partidos_jugados": 1,
+      "rating": 1525.92,
+      "rd": 244.77,
+      "vol": 0.059998,
+      "partidos_jugados": 2,
       "partidos_bootstrap": 0,
-      "partidos_reales": 1,
-      "ultima_actualizacion": "2026-08-31"
+      "partidos_reales": 2,
+      "ultima_actualizacion": "2026-11-19"
     },
     "espn:3456": {
       "nombre": "Coritiba",
@@ -2944,37 +2944,37 @@
       "nombre": "Chapecoense",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1327.75,
-      "rd": 174.32,
+      "rating": 1257.59,
+      "rd": 160.14,
       "vol": 0.060004,
-      "partidos_jugados": 6,
+      "partidos_jugados": 7,
       "partidos_bootstrap": 0,
-      "partidos_reales": 6,
-      "ultima_actualizacion": "2026-11-15"
+      "partidos_reales": 7,
+      "ultima_actualizacion": "2026-11-19"
     },
     "espn:9967": {
       "nombre": "Bahia",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1630.53,
-      "rd": 202.0,
-      "vol": 0.059997,
-      "partidos_jugados": 3,
+      "rating": 1589.41,
+      "rd": 189.13,
+      "vol": 0.059996,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-29"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-11-19"
     },
     "espn:6273": {
       "nombre": "Grêmio",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1366.76,
-      "rd": 265.98,
-      "vol": 0.059998,
-      "partidos_jugados": 2,
+      "rating": 1442.24,
+      "rd": 234.95,
+      "vol": 0.059997,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-11-05"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-11-19"
     },
     "espn:3457": {
       "nombre": "Vitória",
@@ -3436,13 +3436,13 @@
       "nombre": "Remo",
       "pais": "Brazil",
       "liga": "Campeonato Brasileiro",
-      "rating": 1290.24,
-      "rd": 179.26,
+      "rating": 1364.12,
+      "rd": 163.73,
       "vol": 0.059994,
-      "partidos_jugados": 7,
+      "partidos_jugados": 8,
       "partidos_bootstrap": 0,
-      "partidos_reales": 7,
-      "ultima_actualizacion": "2026-11-06"
+      "partidos_reales": 8,
+      "ultima_actualizacion": "2026-11-19"
     },
     "espn:19685": {
       "nombre": "Estudiantes de Río Cuarto",

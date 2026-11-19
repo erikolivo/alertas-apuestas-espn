@@ -37,8 +37,8 @@
       "home_id": "819",
       "away_id": "3458",
       "kickoff_utc": "2026-11-18T23:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-1",
+      "acierto": true,
       "historial_snapshots": [
         {
           "minuto": "4'",
@@ -1540,27 +1540,32 @@
         {
           "tipo": "posible_victoria_favorito",
           "minuto": "18'",
-          "texto": "🟢 Posible victoria del favorito -- domina claramente (79%)."
+          "texto": "🟢 Posible victoria del favorito -- domina claramente (79%).",
+          "acierto": true
         },
         {
           "tipo": "penal",
           "minuto": "29'",
-          "texto": "🎯 Penal detectado."
+          "texto": "🎯 Penal detectado.",
+          "acierto": false
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "33'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (73%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (73%).",
+          "acierto": false
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "45'+4'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (91%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (91%).",
+          "acierto": null
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "77'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (91%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (91%).",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -1601,8 +1606,8 @@
       "home_id": "4936",
       "away_id": "9318",
       "kickoff_utc": "2026-11-18T23:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-0",
+      "acierto": true,
       "historial_snapshots": [
         {
           "minuto": "2'",
@@ -3104,27 +3109,32 @@
         {
           "tipo": "penal",
           "minuto": "22'",
-          "texto": "🎯 Penal detectado."
+          "texto": "🎯 Penal detectado.",
+          "acierto": false
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "27'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (83%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (83%).",
+          "acierto": false
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "42'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (70%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (70%).",
+          "acierto": false
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "55'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (77%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (77%).",
+          "acierto": false
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "80'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (78%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (78%).",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -3165,8 +3175,8 @@
       "home_id": "6273",
       "away_id": "9967",
       "kickoff_utc": "2026-11-19T00:30Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-0",
+      "acierto": false,
       "historial_snapshots": [
         {
           "minuto": "3'",
@@ -4668,12 +4678,14 @@
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "34'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (84%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (84%).",
+          "acierto": false
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "45'+3'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (76%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (76%).",
+          "acierto": null
         }
       ],
       "diferencia_maxima_alcanzada": 0
