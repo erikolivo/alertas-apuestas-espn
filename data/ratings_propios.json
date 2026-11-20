@@ -388,13 +388,13 @@
       "nombre": "Real Salt Lake",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1238.63,
-      "rd": 226.29,
+      "rating": 1325.08,
+      "rd": 215.03,
       "vol": 0.059997,
-      "partidos_jugados": 3,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-10-11"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-11-20"
     },
     "espn:17851": {
       "nombre": "FC Juarez",
@@ -700,13 +700,13 @@
       "nombre": "Seattle Sounders FC",
       "pais": "USA",
       "liga": "Leagues Cup",
-      "rating": 1687.13,
-      "rd": 215.91,
+      "rating": 1609.52,
+      "rd": 206.15,
       "vol": 0.059996,
-      "partidos_jugados": 4,
+      "partidos_jugados": 5,
       "partidos_bootstrap": 0,
-      "partidos_reales": 4,
-      "ultima_actualizacion": "2026-10-18"
+      "partidos_reales": 5,
+      "ultima_actualizacion": "2026-11-20"
     },
     "espn:219": {
       "nombre": "Guadalajara",

@@ -32,8 +32,8 @@
       "home_id": "9726",
       "away_id": "4771",
       "kickoff_utc": "2026-11-20T03:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-1",
+      "acierto": false,
       "historial_snapshots": [
         {
           "minuto": "3'",
@@ -820,12 +820,14 @@
         {
           "tipo": "penal",
           "minuto": "33'",
-          "texto": "🎯 Penal detectado."
+          "texto": "🎯 Penal detectado.",
+          "acierto": true
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "38'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (100%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (100%).",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 0
