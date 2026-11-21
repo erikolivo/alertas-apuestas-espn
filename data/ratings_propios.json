@@ -1540,13 +1540,13 @@
       "nombre": "FC Andorra",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1500.0,
-      "rd": 350.0,
+      "rating": 1318.65,
+      "rd": 270.5,
       "vol": 0.06,
-      "partidos_jugados": 0,
+      "partidos_jugados": 1,
       "partidos_bootstrap": 0,
-      "partidos_reales": 0,
-      "ultima_actualizacion": null
+      "partidos_reales": 1,
+      "ultima_actualizacion": "2026-11-21"
     },
     "espn:5404": {
       "nombre": "Ceuta",
@@ -2560,13 +2560,13 @@
       "nombre": "Leganés",
       "pais": "Spain",
       "liga": "La Liga 2",
-      "rating": 1476.9,
-      "rd": 222.52,
+      "rating": 1561.22,
+      "rd": 204.75,
       "vol": 0.059999,
-      "partidos_jugados": 3,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-11-14"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-11-21"
     },
     "espn:98": {
       "nombre": "Las Palmas",
@@ -4048,13 +4048,13 @@
       "nombre": "Troyes",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1396.59,
-      "rd": 230.26,
-      "vol": 0.060001,
-      "partidos_jugados": 3,
+      "rating": 1467.96,
+      "rd": 206.85,
+      "vol": 0.06,
+      "partidos_jugados": 4,
       "partidos_bootstrap": 0,
-      "partidos_reales": 3,
-      "ultima_actualizacion": "2026-11-08"
+      "partidos_reales": 4,
+      "ultima_actualizacion": "2026-11-21"
     },
     "espn:6851": {
       "nombre": "Paris FC",
@@ -4420,13 +4420,13 @@
       "nombre": "Le Havre AC",
       "pais": "France",
       "liga": "Ligue 1",
-      "rating": 1284.69,
-      "rd": 266.4,
-      "vol": 0.06,
-      "partidos_jugados": 2,
+      "rating": 1194.06,
+      "rd": 228.69,
+      "vol": 0.059999,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-31"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-11-21"
     },
     "espn:174": {
       "nombre": "AS Monaco",
@@ -4648,13 +4648,13 @@
       "nombre": "Bayern Munich",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1753.9,
-      "rd": 136.85,
+      "rating": 1729.22,
+      "rd": 133.67,
       "vol": 0.059989,
-      "partidos_jugados": 11,
+      "partidos_jugados": 12,
       "partidos_bootstrap": 0,
-      "partidos_reales": 11,
-      "ultima_actualizacion": "2026-11-08"
+      "partidos_reales": 12,
+      "ultima_actualizacion": "2026-11-21"
     },
     "espn:134": {
       "nombre": "VfB Stuttgart",
@@ -4696,13 +4696,13 @@
       "nombre": "FC Cologne",
       "pais": "Germany",
       "liga": "Bundesliga",
-      "rating": 1414.27,
-      "rd": 269.17,
+      "rating": 1524.01,
+      "rd": 241.18,
       "vol": 0.060003,
-      "partidos_jugados": 2,
+      "partidos_jugados": 3,
       "partidos_bootstrap": 0,
-      "partidos_reales": 2,
-      "ultima_actualizacion": "2026-10-12"
+      "partidos_reales": 3,
+      "ultima_actualizacion": "2026-11-21"
     },
     "espn:7911": {
       "nombre": "TSG Hoffenheim",
