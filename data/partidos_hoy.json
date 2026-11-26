@@ -37,8 +37,8 @@
       "home_id": "223",
       "away_id": "216",
       "kickoff_utc": "2026-11-26T01:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-0",
+      "acierto": true,
       "historial_snapshots": [
         {
           "minuto": "2'",
@@ -1540,27 +1540,32 @@
         {
           "tipo": "ampliacion_marcador",
           "minuto": "17'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (73%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (73%).",
+          "acierto": false
         },
         {
           "tipo": "penal",
           "minuto": "56'",
-          "texto": "🎯 Penal detectado."
+          "texto": "🎯 Penal detectado.",
+          "acierto": false
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "67'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (100%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (100%).",
+          "acierto": false
         },
         {
           "tipo": "ampliacion_marcador",
           "minuto": "82'",
-          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (81%)."
+          "texto": "🔵 Posible ampliacion de marcador -- sigue dominando (81%).",
+          "acierto": false
         },
         {
           "tipo": "cuidado_rival_presiona",
           "minuto": "87'",
-          "texto": "⚠️ Cuidado -- el rival esta dominando (70%)."
+          "texto": "⚠️ Cuidado -- el rival esta dominando (70%).",
+          "acierto": false
         }
       ],
       "diferencia_maxima_alcanzada": 0
@@ -1601,8 +1606,8 @@
       "home_id": "21922",
       "away_id": "83",
       "kickoff_utc": "2026-11-25T17:45Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "1-4",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -1643,8 +1648,8 @@
       "home_id": "1068",
       "away_id": "510",
       "kickoff_utc": "2026-11-25T20:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-0",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -1685,8 +1690,8 @@
       "home_id": "110",
       "away_id": "134",
       "kickoff_utc": "2026-11-25T20:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-0",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -1722,8 +1727,8 @@
       "home_id": "379",
       "away_id": "392",
       "kickoff_utc": "2026-11-25T19:45Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-2",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -1759,8 +1764,8 @@
       "home_id": "395",
       "away_id": "365",
       "kickoff_utc": "2026-11-25T19:45Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-1",
+      "acierto": true,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -1796,8 +1801,8 @@
       "home_id": "336",
       "away_id": "391",
       "kickoff_utc": "2026-11-25T20:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-1",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -1833,8 +1838,8 @@
       "home_id": "570",
       "away_id": "364",
       "kickoff_utc": "2026-11-25T20:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "0-3",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
@@ -1870,8 +1875,8 @@
       "home_id": "166",
       "away_id": "132",
       "kickoff_utc": "2026-11-25T20:00Z",
-      "resultado_final": null,
-      "acierto": null,
+      "resultado_final": "2-1",
+      "acierto": false,
       "historial_snapshots": [],
       "alertas_enviadas": [],
       "diferencia_maxima_alcanzada": 0
